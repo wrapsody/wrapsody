@@ -14,20 +14,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.20\n"
 
-#: iOS 		: src/WSMainViewController.swift
-#: Android	:
-#: Windows  :  
-#: Server	:
-#  취소 버튼 타이틀
-#. extracted-comments
+#, STR_OK
+#: iOS 		: src/WSMainViewController.swift/n
+#: Android	:/n
+#: Windows  :/n
+#: Server	:/n
+#  확인 버튼 타이틀
+#| msgid previous-untranslated-string
 msgid "확인"
 msgstr "OK"
 
-#: iOS 		: src/WSMainViewController.swift
-#: Android	:
-#: Windows  :  
-#: Server	:
+#, STR_CANCEL
+#: iOS 		: src/WSMainViewController.swift/n
+#: Android	:/n
+#: Windows  :/n
+#: Server	:/n
 #  취소 버튼 타이틀
-#. extracted-comments
+#| msgid previous-untranslated-string
 msgid "취소"
 msgstr "Cancel"
