@@ -15,21 +15,19 @@ msgstr ""
 "X-Generator: Weblate 2.20\n"
 
 #, STR_OK
-#: iOS 		: src/WSMainViewController.swift/n
-#: Android	:/n
-#: Windows  :/n
-#: Server	:/n
+#: iOS 		: src/WSMainViewController.swift : 116
+#: Android	: src/WSMainActivity.java : 100
+#: Windows  : src/WSMain.cpp : 50
+#: Server	: src/WSMainControl.java : 20
 #  확인 버튼 타이틀
-#| msgid previous-untranslated-string
 msgid "확인"
 msgstr "OK"
 
 #, STR_CANCEL
-#: iOS 		: src/WSMainViewController.swift/n
-#: Android	:/n
-#: Windows  :/n
-#: Server	:/n
+#: iOS 		: src/WSMainViewController.swift : 117
+#: Android	: src/WSMainActivity.java : 105
+#: Windows  : src/WSMain.cpp : 60
+#: Server	: src/WSMainControl.java : 25
 #  취소 버튼 타이틀
-#| msgid previous-untranslated-string
 msgid "취소"
 msgstr "Cancel"
