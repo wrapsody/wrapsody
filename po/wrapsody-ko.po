@@ -13,3 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2.20\n"
+
+msgctxt "확인"
+msgid "STR_OK"
+msgstr "확인"
+
+msgctxt "취소"
+msgid "STR_CANCEL"
+msgstr "취소"
