@@ -18,7 +18,8 @@ msgstr ""
 #: Android	:
 #: Windows  :  
 #: Server	:
-msgctxt "확인 버튼 타이틀"
+#  취소 버튼 타이틀
+#. extracted-comments
 msgid "확인"
 msgstr "OK"
 
@@ -26,6 +27,7 @@ msgstr "OK"
 #: Android	:
 #: Windows  :  
 #: Server	:
-msgctxt "취소 버튼 타이틀"
+#  취소 버튼 타이틀
+#. extracted-comments
 msgid "취소"
 msgstr "Cancel"
