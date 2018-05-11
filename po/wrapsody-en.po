@@ -630,11 +630,6 @@ msgctxt "str_common_notAvailable"
 msgid "없음"
 msgstr "N/A"
 
-#: str_historyPage_aaa_emptyMessage
-msgctxt "str_historyPage_aaa_emptyMessage"
-msgid "없음"
-msgstr ""
-
 #: str_common_view
 msgctxt "str_common_view"
 msgid "열람"
