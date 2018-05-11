@@ -14,22 +14,1088 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.20\n"
 
-#: STR_OK
-#, flag
-# iOS 		: src/WSMainViewController.swift 116
-# Android	: src/WSMainActivity.java 100
-# Windows   : src/WSMain.cpp 50
-# Server	: src/WSMainControl.java 20
-# 확인 버튼 타이틀
+
+#: str_myDocumentPage_docItemRevisionDate_text_formatted
+msgctxt "str_myDocumentPage_docItemRevisionDate_text_formatted"
+msgid ", %1$s"
+msgstr ", %1$s"
+
+#: str_myDocumentPage_docItemRevisionValue_text_formatted
+msgctxt "str_myDocumentPage_docItemRevisionValue_text_formatted"
+msgid ", ver %1$d"
+msgstr ", ver %1$d"
+
+#: str_commonFormat_valueInParenthesis
+msgctxt "str_commonFormat_valueInParenthesis"
+msgid "(%s)"
+msgstr "(%s)"
+
+#: str_setTagPage_filterableTagList_userTagWillBeAdded_description
+msgctxt "str_setTagPage_filterableTagList_userTagWillBeAdded_description"
+msgid "\n입력하면 사용자 태그로 추가합니다."
+msgstr "Add your own tag by tapping done."
+
+#: REQUEST_REJECT_REVISER
+msgctxt "REQUEST_REJECT_REVISER"
+msgid "%@님이 %@의 리비전 권한을 반려했습니다."
+msgstr "%@ rejected a Revise permission request for %@."
+
+#: REQUEST_ACCEPT_REVISER
+msgctxt "REQUEST_ACCEPT_REVISER"
+msgid "%@님이 %@의 리비전 권한을 승인했습니다."
+msgstr "%@ approved a Revise permission request for %@."
+
+#: REQUEST_SUBMIT_REVISER
+msgctxt "REQUEST_SUBMIT_REVISER"
+msgid "%@님이 %@의 리비전 권한을 요청했습니다."
+msgstr "%@ made a Revise permission request for %@."
+
+#: REQUEST_REJECT_CHECKOUT
+msgctxt "REQUEST_REJECT_CHECKOUT"
+msgid "%@님이 %@의 리비전 취소를 반려했습니다."
+msgstr "%@ rejected a check out cancel request for %@."
+
+#: REQUEST_ACCEPT_CHECKOUT
+msgctxt "REQUEST_ACCEPT_CHECKOUT"
+msgid "%@님이 %@의 리비전 취소를 승인했습니다."
+msgstr "%@ approved a check out cancel request for %@."
+
+#: REQUEST_SUBMIT_CHECKOUT
+msgctxt "REQUEST_SUBMIT_CHECKOUT"
+msgid "%@님이 %@의 리비전 취소를 요청했습니다."
+msgstr "%@ made a check out cancel request for %@."
+
+#: REQUEST_REJECT_MASTER
+msgctxt "REQUEST_REJECT_MASTER"
+msgid "%@님이 %@의 문서 관리자 권한을 반려했습니다."
+msgstr "%@ rejected an owner change request for %@."
+
+#: REQUEST_ACCEPT_MASTER
+msgctxt "REQUEST_ACCEPT_MASTER"
+msgid "%@님이 %@의 문서 관리자 권한을 승인했습니다."
+msgstr "%@ approved an owner change request for %@."
+
+#: REQUEST_SUBMIT_MASTER
+msgctxt "REQUEST_SUBMIT_MASTER"
+msgid "%@님이 %@의 문서 관리자 권한을 요청했습니다."
+msgstr "%@ made an owner change request for %@."
+
+#: REQUEST_REJECT_VIEWER
+msgctxt "REQUEST_REJECT_VIEWER"
+msgid "%@님이 %@의 열람 권한을 반려했습니다."
+msgstr "%@ rejected a View permission request for %@."
+
+#: REQUEST_ACCEPT_VIEWER
+msgctxt "REQUEST_ACCEPT_VIEWER"
+msgid "%@님이 %@의 열람 권한을 승인했습니다."
+msgstr "%@ approved a View permission request for %@."
+
+#: REQUEST_SUBMIT_VIEWER
+msgctxt "REQUEST_SUBMIT_VIEWER"
+msgid "%@님이 %@의 열람 권한을 요청했습니다."
+msgstr "%@ made a View permission request for %@."
+
+#: READ_REQUEST
+msgctxt "READ_REQUEST"
+msgid "%@님이 %@의 열람을 요청했습니다."
+msgstr "%@ requested a read for %@."
+
+#: str_notification_requestToView_message_formatted
+msgctxt "str_notification_requestToView_message_formatted"
+msgid "%1$s님이 %2$s의 열람을 요청했습니다."
+msgstr "%1$s has requested to view %2$s."
+
+#: str_dialog_failedToUnlock_message_formatted
+msgctxt "str_dialog_failedToUnlock_message_formatted"
+msgid "%d회 실패"
+msgstr "%d attempt failed"
+
+#: str_commonFormat_colonSuffixed
+msgctxt "str_commonFormat_colonSuffixed"
+msgid "%s: "
+msgstr "%s: "
+
+#: str_setPasscodePage_requireFrequency10Minutes_text
+msgctxt "str_setPasscodePage_requireFrequency10Minutes_text"
+msgid "10분"
+msgstr "10 Minutes"
+
+#: str_setPasscodePage_requireFrequency2Minutes_text
+msgctxt "str_setPasscodePage_requireFrequency2Minutes_text"
+msgid "2분"
+msgstr "2 Minutes"
+
+#: str_setPasscodePage_requireFrequency5Minutes_text
+msgctxt "str_setPasscodePage_requireFrequency5Minutes_text"
+msgid "5분"
+msgstr "5 Minutes"
+
+#: str_myDocumentPage_searchInput_placeholder
+msgctxt "str_myDocumentPage_searchInput_placeholder"
+msgid "검색"
+msgstr "Search"
+
+#: str_common_emptySearchMessage
+msgctxt "str_common_emptySearchMessage"
+msgid "검색 결과가 없습니다."
+msgstr "No search results"
+
+#: str_setUserPage_filterableUserList_emptyMessage
+msgctxt "str_setUserPage_filterableUserList_emptyMessage"
+msgid "검색 결과가 없습니다."
+msgstr "No Results"
+
+#: str_searchPreferencesPage_title
+msgctxt "str_searchPreferencesPage_title"
+msgid "검색 설정"
+msgstr "Search Settings"
+
+#: str_myDocumentPage_searchPreferences_text
+msgctxt "str_myDocumentPage_searchPreferences_text"
+msgid "검색조건"
+msgstr "Search Settings"
+
+#: str_common_gettingSharedLink
+msgctxt "str_common_gettingSharedLink"
+msgid "공유링크를 얻는 중 입니다…"
+msgstr "Getting shared link…"
+
+#: str_dialog_requestPermission_title
+msgctxt "str_dialog_requestPermission_title"
+msgid "권한 요청"
+msgstr "Request Permission"
+
+#: str_searchPreferencesPage_searchPeriod_label
+msgctxt "str_searchPreferencesPage_searchPeriod_label"
+msgid "기간으로 검색"
+msgstr "Search by period"
+
+#: str_setPasscodePage_changePasscodeForCurrent_description
+msgctxt "str_setPasscodePage_changePasscodeForCurrent_description"
+msgid "기존 Wrapsody 비밀번호를 입력하세요."
+msgstr "Enter your old Wrapsody passcode."
+
+#: str_searchPreferencesPage_searchPeriodEndDate_label
+msgctxt "str_searchPreferencesPage_searchPeriodEndDate_label"
+msgid "끝 날짜"
+msgstr "End Date"
+
+#: str_myDocumentPage_title
+msgctxt "str_myDocumentPage_title"
+msgid "내 문서"
+msgstr "My Documents"
+
+#: str_myDocumentPage_documentList_emptyMessage
+msgctxt "str_myDocumentPage_documentList_emptyMessage"
+msgid "내 문서가 없습니다."
+msgstr "There is no my document."
+
+#: str_common_sortTypeDescending
+msgctxt "str_common_sortTypeDescending"
+msgid "내림차순"
+msgstr "Descending"
+
+#: str_common_positiveAnswer
+msgctxt "str_common_positiveAnswer"
+msgid "네"
+msgstr "Yes"
+
+#: str_common_retry
+msgctxt "str_common_retry"
+msgid "다시 시도"
+msgstr "Retry"
+
+#: str_common_download
+msgctxt "str_common_download"
+msgid "다운로드"
+msgstr "Download"
+
+#: str_common_downloading
+msgctxt "str_common_downloading"
+msgid "다운로드 중…"
+msgstr "Downloading …"
+
+#: str_common_noMoreItems
+msgctxt "str_common_noMoreItems"
+msgid "더 이상 목록이 없습니다."
+msgstr "No more items."
+
+#: str_common_help
+msgctxt "str_common_help"
+msgid "도움말"
+msgstr "Help"
+
+#: str_common_logout
+msgctxt "str_common_logout"
+msgid "로그아웃"
+msgstr "Log out"
+
+#: str_dialog_logoutAlert_message
+msgctxt "str_dialog_logoutAlert_message"
+msgid "로그아웃하면 자동 로그인이 해제 됩니다. 로그아웃하시겠습니까?"
+msgstr "Automatic log in will be turned off. Do you want to continue?"
+
+#: str_common_login
+msgctxt "str_common_login"
+msgid "로그인"
+msgstr "Log in"
+
+#: str_common_revision
+msgctxt "str_common_revision"
+msgid "리비전"
+msgstr "Revision"
+
+#: str_dialog_revisionPermission_text
+msgctxt "str_dialog_revisionPermission_text"
+msgid "리비전 권한"
+msgstr "Revision"
+
+#: str_documentInformationPage_reviser_label
+msgctxt "str_documentInformationPage_reviser_label"
+msgid "리비전 권한 소유자"
+msgstr "Revisers"
+
+#: str_requestOnDocumentPage_reviser_label
+msgctxt "str_requestOnDocumentPage_reviser_label"
+msgid "리비전 권한 소유자"
+msgstr "Revisers"
+
+#: str_requestManagementPage_requestToDeleteRevisionVersion_label
+msgctxt "str_requestManagementPage_requestToDeleteRevisionVersion_label"
+msgid "리비전 권한 요청"
+msgstr "Revise Permission"
+
+#: str_requestOnDocumentPage_requestRevisionPermission_text
+msgctxt "str_requestOnDocumentPage_requestRevisionPermission_text"
+msgid "리비전 권한 요청"
+msgstr "Request Revise Permission"
+
+#: str_requestOnDocumentPage_revisingUser_label
+msgctxt "str_requestOnDocumentPage_revisingUser_label"
+msgid "리비전 중인 사용자"
+msgstr "Checked out by "
+
+#: str_requestManagementPage_requestToCancelRevisioning_label
+msgctxt "str_requestManagementPage_requestToCancelRevisioning_label"
+msgid "리비전 취소 요청"
+msgstr "Cancel Checkout"
+
+#: str_requestOnDocumentPage_requestCancelRevisioning_text
+msgctxt "str_requestOnDocumentPage_requestCancelRevisioning_text"
+msgid "리비전 취소 요청"
+msgstr "Request Cancel Checkout"
+
+#: str_dialog_requestedToCancelRevisioning_message
+msgctxt "str_dialog_requestedToCancelRevisioning_message"
+msgid "리비전 취소를 요청했습니다."
+msgstr "Requested to cancel checkout."
+
+#: str_menuPage_sendSharedLink_text
+msgctxt "str_menuPage_sendSharedLink_text"
+msgid "링크 보내기"
+msgstr "Send Link"
+
+#: str_recentsPage_deleteAll_text
+msgctxt "str_recentsPage_deleteAll_text"
+msgid "모두 삭제"
+msgstr "Delete All"
+
+#: str_commenPage_notifyRegardlessOfNotificationPreferences_description
+msgctxt "str_commenPage_notifyRegardlessOfNotificationPreferences_description"
+msgid "모든 권한 소유자에게 알림 설정에 관계없이 의견 알림 보내기"
+msgstr "Send notification to all users with permission regardless of their notification settings"
+
+#: str_documentInformationPage_viewPermissionAllowedToAllUser_text
+msgctxt "str_documentInformationPage_viewPermissionAllowedToAllUser_text"
+msgid "모든 사용자"
+msgstr "All Users"
+
+#: str_common_viewPermissionAllowedToAllUser
+msgctxt "str_common_viewPermissionAllowedToAllUser"
+msgid "모든 사용자에게 열람 허용"
+msgstr "Allow all users to view this document"
+
+#: str_common_documentManager
+msgctxt "str_common_documentManager"
+msgid "문서 관리자"
+msgstr "Owner"
+
+#: str_common_documentOwner
+msgctxt "str_common_documentOwner"
+msgid "문서 관리자"
+msgstr "Owner"
+
+#: str_requestManagementPage_requestToChangeDocumentOwner_label
+msgctxt "str_requestManagementPage_requestToChangeDocumentOwner_label"
+msgid "문서 관리자 승계 요청"
+msgstr "Ownership"
+
+#: str_requestOnDocumentPage_requestChangeOwner_text
+msgctxt "str_requestOnDocumentPage_requestChangeOwner_text"
+msgid "문서 관리자 승계 요청"
+msgstr "Request Ownership"
+
+#: str_dialog_successfullyRequestedChangeOwner_message
+msgctxt "str_dialog_successfullyRequestedChangeOwner_message"
+msgid "문서 관리자 승계을 요청했습니다."
+msgstr "An owner change request has been sent."
+
+#: str_common_documentName
+msgctxt "str_common_documentName"
+msgid "문서 이름"
+msgstr "File name"
+
+#: str_documentInformationPage_documentName_label
+msgctxt "str_documentInformationPage_documentName_label"
+msgid "문서 이름"
+msgstr "File Name"
+
+#: str_searchPreferencesPage_sortBy_label
+msgctxt "str_searchPreferencesPage_sortBy_label"
+msgid "문서 정렬 기준"
+msgstr "Sort by"
+
+#: str_common_documentInformation
+msgctxt "str_common_documentInformation"
+msgid "문서 정보"
+msgstr "File Info"
+
+#: str_requestOnDocumentPage_requestCancelRevisioning_description
+msgctxt "str_requestOnDocumentPage_requestCancelRevisioning_description"
+msgid "문서를 리비전 중인 사용자에게 리비전 취소를 요청합니다."
+msgstr "Tap this button to ask the user to check in this document."
+
+#: str_common_openningDocument
+msgctxt "str_common_openningDocument"
+msgid "문서를 여는 중 입니다…"
+msgstr "Opening document…"
+
+#: str_common_reject
+msgctxt "str_common_reject"
+msgid "반려"
+msgstr "Reject"
+
+#: str_dialog_failedToRejectRequest_message
+msgctxt "str_dialog_failedToRejectRequest_message"
+msgid "반려에 실패 했습니다."
+msgstr "Rejecting the request failed."
+
+#: str_common_version
+msgctxt "str_common_version"
+msgid "버전"
+msgstr "Version"
+
+#: str_searchPreferencesPage_sortByRevisedDate_text
+msgctxt "str_searchPreferencesPage_sortByRevisedDate_text"
+msgid "버전 생성일"
+msgstr "Date revised"
+
+#: str_common_checkingRevisionVersion
+msgctxt "str_common_checkingRevisionVersion"
+msgid "버전확인 중 입니다…"
+msgstr "Checking version…"
+
+#: str_dialog_warningDiscard_question
+msgctxt "str_dialog_warningDiscard_question"
+msgid "변경 사항이 유실됩니다.\n취소하시겠습니까?"
+msgstr "You have unsaved changes.\nDo you want to discard changes?"
+
+#: str_common_move
+msgctxt "str_common_move"
+msgid "보기"
+msgstr "Move"
+
+#: str_common_send
+msgctxt "str_common_send"
+msgid "보내기"
+msgstr "Send"
+
+#: str_common_loading
+msgctxt "str_common_loading"
+msgid "불러오는 중..."
+msgstr "Loading..."
+
+#: str_common_password
+msgctxt "str_common_password"
+msgid "비밀번호"
+msgstr "Password"
+
+#: str_setPasscodePage_changePasscode_text
+msgctxt "str_setPasscodePage_changePasscode_text"
+msgid "비밀번호 변경"
+msgstr "Change Passcode"
+
+#: str_setPasscodePage_setPasscode_text
+msgctxt "str_setPasscodePage_setPasscode_text"
+msgid "비밀번호 설정"
+msgstr "Turn Passcode On"
+
+#: str_setPasscodePage_frequencyOfPasscode_text
+msgctxt "str_setPasscodePage_frequencyOfPasscode_text"
+msgid "비밀번호 요구"
+msgstr "Require Passcode"
+
+#: str_dialog_alternativeToFingerPrintWithPasscode_text
+msgctxt "str_dialog_alternativeToFingerPrintWithPasscode_text"
+msgid "비밀번호 입력"
+msgstr "Enter Passcode"
+
+#: str_setPasscodePage_enterPasscode_text
+msgctxt "str_setPasscodePage_enterPasscode_text"
+msgid "비밀번호 입력"
+msgstr "Enter Passcode"
+
+#: str_setPasscodePage_mismatchPasscode_text
+msgctxt "str_setPasscodePage_mismatchPasscode_text"
+msgid "비밀번호 입력"
+msgstr "Try again"
+
+#: str_setPasscodePage_title
+msgctxt "str_setPasscodePage_title"
+msgid "비밀번호 잠금"
+msgstr "Passcode Lock"
+
+#: str_settingsPage_passcodeLock_text
+msgctxt "str_settingsPage_passcodeLock_text"
+msgid "비밀번호 잠금"
+msgstr "Passcode Lock"
+
+#: str_dialog_passcodeIsSet_message
+msgctxt "str_dialog_passcodeIsSet_message"
+msgid "비밀번호 잠금이 설정되었습니다."
+msgstr "Passcode enabled."
+
+#: str_dialog_passcodeIsDisabled_message
+msgctxt "str_dialog_passcodeIsDisabled_message"
+msgid "비밀번호 잠금이 해제되었습니다."
+msgstr "Passcode disabled."
+
+#: str_setPasscodePage_disablePasscode_text
+msgctxt "str_setPasscodePage_disablePasscode_text"
+msgid "비밀번호 해제"
+msgstr "Turn Passcode Off"
+
+#: str_setPasscodePage_confirmPasscode_text
+msgctxt "str_setPasscodePage_confirmPasscode_text"
+msgid "비밀번호 확인"
+msgstr "Confirm Passcode"
+
+#: str_setPasscodePage_mismatch_description
+msgctxt "str_setPasscodePage_mismatch_description"
+msgid "비밀번호가 일치하지 않습니다."
+msgstr "Passcodes didn\'t match."
+
+#: str_setPasscodePage_failedMoreThanAlllowedAttempts_description_formatted
+msgctxt "str_setPasscodePage_failedMoreThanAlllowedAttempts_description_formatted"
+msgid "비밀번호를 %d회 이상 잘못 입력하면 Wrapsody에서 로그아웃됩니다."
+msgstr "You will be logged out of Wrapsody after %d failed passcode attempts."
+
+#: str_setPasscodePage_failedMoreThanAlllowedAttempts_message_formatted
+msgctxt "str_setPasscodePage_failedMoreThanAlllowedAttempts_message_formatted"
+msgid "비밀번호를 %d회 이상 잘못 입력하면 Wrapsody에서 로그아웃됩니다."
+msgstr "You will be logged out of Wrapsody after %d failed passcode attempts."
+
+#: str_setPasscodePage_confirmPasscode_description
+msgctxt "str_setPasscodePage_confirmPasscode_description"
+msgid "비밀번호를 다시 입력하세요."
+msgstr "Enter the passcode again."
+
+#: str_setPasscodePage_setPasscode_description
+msgctxt "str_setPasscodePage_setPasscode_description"
+msgid "비밀번호를 입력하세요."
+msgstr "Choose your passcode."
+
+#: str_setPasscodePage_unlockPasscode_description
+msgctxt "str_setPasscodePage_unlockPasscode_description"
+msgid "비밀번호를 입력하세요."
+msgstr "Enter your passcode"
+
+#: str_menuPage_sendCopy_text
+msgctxt "str_menuPage_sendCopy_text"
+msgid "사본 보내기"
+msgstr "Send Copy"
+
+#: str_dialog_chooseAppToSendCopy_question
+msgctxt "str_dialog_chooseAppToSendCopy_question"
+msgid "사본을 보낼 앱을 선택하세요."
+msgstr "Choose app to send a copy."
+
+#: str_setUserPage_searchUserInput_placeholder
+msgctxt "str_setUserPage_searchUserInput_placeholder"
+msgid "사용자 검색"
+msgstr "Search for a user"
+
+#: str_dialog_setUserSuccess_message
+msgctxt "str_dialog_setUserSuccess_message"
+msgid "사용자 권한을 설정하였습니다."
+msgstr "Set user(s) successfully."
+
+#: str_menuPage_setUser_text
+msgctxt "str_menuPage_setUser_text"
+msgid "사용자 설정"
+msgstr "Select User(s)"
+
+#: str_setUserPage_title
+msgctxt "str_setUserPage_title"
+msgid "사용자 설정"
+msgstr "Select User(s)"
+
+#: str_common_delete
+msgctxt "str_common_delete"
+msgid "삭제"
+msgstr "Delete"
+
+#: str_common_refresh
+msgctxt "str_common_refresh"
+msgid "새로고침"
+msgstr "Refresh"
+
+#: str_common_serverUrl
+msgctxt "str_common_serverUrl"
+msgid "서버 URL"
+msgstr "Server URL"
+
+#: str_setTagPage_optionalTagSuffix_text
+msgctxt "str_setTagPage_optionalTagSuffix_text"
+msgid "선택"
+msgstr "Optional"
+
+#: str_dialog_deleteAccessedServerInfomation_question
+msgctxt "str_dialog_deleteAccessedServerInfomation_question"
+msgid "선택한 접속 정보를 삭제 하시겠습니까?"
+msgstr "Are you sure to delete the access history?"
+
+#: str_common_settings
+msgctxt "str_common_settings"
+msgid "설정"
+msgstr "Settings"
+
+#: str_searchPreferencesPage_reset_text
+msgctxt "str_searchPreferencesPage_reset_text"
+msgid "설정 초기화"
+msgstr "Reset"
+
+#: str_common_approve
+msgctxt "str_common_approve"
+msgid "승인"
+msgstr "Approve"
+
+#: str_dialog_failedToApprovRequest_message
+msgctxt "str_dialog_failedToApprovRequest_message"
+msgid "승인에 실패 했습니다."
+msgstr "Approving the request failed."
+
+#: str_searchPreferencesPage_searchPeriodStartDate_label
+msgctxt "str_searchPreferencesPage_searchPeriodStartDate_label"
+msgid "시작 날짜"
+msgstr "Start Date"
+
+#: str_common_negativeAnswer
+msgctxt "str_common_negativeAnswer"
+msgid "아니오"
+msgstr "No"
+
+#: str_common_notification
+msgctxt "str_common_notification"
+msgid "알림"
+msgstr "Notification"
+
+#: str_settingsPage_visitAppStoreForReview_text
+msgctxt "str_settingsPage_visitAppStoreForReview_text"
+msgid "앱스토어에 리뷰 남기기"
+msgstr "Review on the App Store"
+
+#: str_dialog_requestPermission_viewDocument
+msgctxt "str_dialog_requestPermission_viewDocument"
+msgid "앱이 문서를 읽을 수 있도록 허용"
+msgstr "Allow apps to read docs"
+
+#: str_common_yesterday
+msgctxt "str_common_yesterday"
+msgid "어제"
+msgstr "YESTERDAY"
+
+#: str_setPasscodePage_allowToUnlockAppUsingFaceId_description
+msgctxt "str_setPasscodePage_allowToUnlockAppUsingFaceId_description"
+msgid "얼굴인식으로 Wrapsody 앱을 잠금 해제할 수 있도록 허용"
+msgstr "Allow your face recognition to unlock the Wrapsody app."
+
+#: str_common_none
+msgctxt "str_common_none"
+msgid "없음"
+msgstr "None"
+
+#: str_common_notAvailable
+msgctxt "str_common_notAvailable"
+msgid "없음"
+msgstr "N/A"
+
+#: str_historyPage_aaa_emptyMessage
+msgctxt "str_historyPage_aaa_emptyMessage"
+msgid "없음"
+msgstr ""
+
+#: str_common_view
+msgctxt "str_common_view"
+msgid "열람"
+msgstr "View"
+
+#: str_dialog_viewPermission_text
+msgctxt "str_dialog_viewPermission_text"
+msgid "열람 권한"
+msgstr "View"
+
+#: str_documentInformationPage_viewer_label
+msgctxt "str_documentInformationPage_viewer_label"
+msgid "열람 권한 소유자"
+msgstr "Viewers"
+
+#: str_requestManagementPage_requestToViewPermission_label
+msgctxt "str_requestManagementPage_requestToViewPermission_label"
+msgid "열람 권한 요청"
+msgstr "View Permission"
+
+#: str_dialog_requestedViewPermission_message
+msgctxt "str_dialog_requestedViewPermission_message"
+msgid "열람 권한을 요청했습니다."
+msgstr "Your view permission has been requested."
+
+#: str_notification_opponentViewed_message_formatted
+msgctxt "str_notification_opponentViewed_message_formatted"
+msgid "열람 요청 한 %2$s(을)를 %1$s님이 열람하였습니다."
+msgstr "%1$s has read the document %2$s that you have requested to view."
+
+#: READ_REQUEST_ALERT
+msgctxt "READ_REQUEST_ALERT"
+msgid "열람 요청하신 %2$@(을)를 %1$@님이 열람하였습니다."
+msgstr "%@ has read the document %@ that you have requested to view."
+
+#: str_notification_viewConfirmed_title
+msgctxt "str_notification_viewConfirmed_title"
+msgid "열람 확인"
+msgstr "Requested document viewed"
+
+#: str_dialog_selectRevisionVersion_question
+msgctxt "str_dialog_selectRevisionVersion_question"
+msgid "열람하려는 문서는 최신 버전이 아닙니다.\n열람할 버전을 선택하십시오."
+msgstr "The document you selected is not the latest version.\nPlease select the version you want to view."
+
+#: str_common_today
+msgctxt "str_common_today"
+msgid "오늘"
+msgstr "TODAY"
+
+#: str_common_sortTypeAscending
+msgctxt "str_common_sortTypeAscending"
+msgid "오름차순"
+msgstr "Ascending"
+
+#: str_common_done
+msgctxt "str_common_done"
+msgid "완료"
+msgstr "Done"
+
+#: str_common_requests
+msgctxt "str_common_requests"
+msgid "요청"
+msgstr "Requests"
+
+#: str_requestManagementPage_title
+msgctxt "str_requestManagementPage_title"
+msgid "요청 관리"
+msgstr "Requests"
+
+#: str_requestsManagementPage_title
+msgctxt "str_requestsManagementPage_title"
+msgid "요청 관리"
+msgstr "Requests"
+
+#: str_dialog_requestReasonInput_placeholder
+msgctxt "str_dialog_requestReasonInput_placeholder"
+msgid "요청 사유를 입력하십시오. (최대 512자)"
+msgstr "Reason for request (512 chars max)"
+
+#: str_notification_approveRequest_title
+msgctxt "str_notification_approveRequest_title"
+msgid "요청 수락"
+msgstr "Request accepted"
+
+#: str_requestOnDocumentPage_alreadyRequestedSuffix_text
+msgctxt "str_requestOnDocumentPage_alreadyRequestedSuffix_text"
+msgid "요청됨"
+msgstr "Requested"
+
+#: str_dialog_successfullyRejectedRequest_message
+msgctxt "str_dialog_successfullyRejectedRequest_message"
+msgid "요청을 반려 했습니다."
+msgstr "Rejected the request."
+
+#: str_dialog_failedToRequest_message
+msgctxt "str_dialog_failedToRequest_message"
+msgid "요청을 보내는데 실패했습니다."
+msgstr "Your request is not sent."
+
+#: str_dialog_successfullyApprovedRequest_message
+msgctxt "str_dialog_successfullyApprovedRequest_message"
+msgid "요청을 승인 했습니다."
+msgstr "Approved the request."
+
+#: str_common_comment
+msgctxt "str_common_comment"
+msgid "의견"
+msgstr "Comment"
+
+#: str_commentPage_notifyAccordingToNotificationPerferences_description
+msgctxt "str_commentPage_notifyAccordingToNotificationPerferences_description"
+msgid "의견알림설정에 따라 알림을 받습니다."
+msgstr "Notify according to the notification settings."
+
+#: str_commentPage_newCommentInput_placeholder
+msgctxt "str_commentPage_newCommentInput_placeholder"
+msgid "의견을 입력하세요. (최대 512자)"
+msgstr "Message. (512 chars max)"
+
+#: str_commentPage_commentList_emptyMessage
+msgctxt "str_commentPage_commentList_emptyMessage"
+msgid "의견이 없습니다."
+msgstr "No Comments."
+
+#: str_dialog_doucmentNotSupportedByConnectedServer_question
+msgctxt "str_dialog_doucmentNotSupportedByConnectedServer_question"
+msgid "이 문서는 현재 접속한 서버의 문서가 아닙니다. 이 문서를 열람하려면, 이 문서가 저장되어 있는 서버로 로그인해야 합니다. 새로운 서버에 로그인하면, 기존 접속한 서버에서 로그아웃됩니다.\n계속하시겠습니까?"
+msgstr "This document is not available on current connected server. You should log in to the server where this document is stored. Do you want to log out from currently connected server and log in to new server?"
+
+#: str_requestOnDocumentPage_revisionPermission_description
+msgctxt "str_requestOnDocumentPage_revisionPermission_description"
+msgid "이 문서를 리비전 하기 위한 권한을 요청합니다."
+msgstr "Tap this button to get the revise permission of this document."
+
+#: str_requestOnDocumentPage_requestToChangeOwner_description
+msgctxt "str_requestOnDocumentPage_requestToChangeOwner_description"
+msgid "이 문서의 관리자 권한을 요청합니다."
+msgstr "Tap this button to take over ownership of this document."
+
+#: str_dialog_requestPermission_question
+msgctxt "str_dialog_requestPermission_question"
+msgid "이 문서의 내용을 열람하려면, 문서 관리자에게 권한을 요청해야 합니다.  요청할 권한을 선택하십시오."
+msgstr "To access the document, you need to request permission to the owner of the document.\nSelect permission to request."
+
+#: str_common_history
+msgctxt "str_common_history"
+msgid "이력"
+msgstr "History"
+
+#: str_common_thisMonth
+msgctxt "str_common_thisMonth"
+msgid "이번 달"
+msgstr "THIS MONT"
+
+#: str_common_thisWeek
+msgctxt "str_common_thisWeek"
+msgid "이번 주"
+msgstr "THIS WEEK"
+
+#: str_setPasscodePage_disablePasscodeConfirm_description
+msgctxt "str_setPasscodePage_disablePasscodeConfirm_description"
+msgid "잠금해제를 위해 비밀번호를 입력하세요"
+msgstr "Enter Current Passcode"
+
+#: str_common_discard
+msgctxt "str_common_discard"
+msgid "저장 안함"
+msgstr "Discard"
+
+#: str_searchPreferencesPage_sortType_label
+msgctxt "str_searchPreferencesPage_sortType_label"
+msgid "정렬 방식"
+msgstr "Sort in"
+
+#: str_setTagPage_tagList_emptyMessage
+msgctxt "str_setTagPage_tagList_emptyMessage"
+msgid "정의 된 태그가 없습니다."
+msgstr "There are no predefined tags."
+
+#: str_setPasscodePage_requireFrequencyImmediate_text
+msgctxt "str_setPasscodePage_requireFrequencyImmediate_text"
+msgid "즉시"
+msgstr "Immediately"
+
+#: str_common_lastMonth
+msgctxt "str_common_lastMonth"
+msgid "지난 달"
+msgstr "LAST MONTH"
+
+#: str_common_lastWeek
+msgctxt "str_common_lastWeek"
+msgid "지난 주"
+msgstr "LAST WEEK"
+
+#: str_common_fingerPrint
+msgctxt "str_common_fingerPrint"
+msgid "지문"
+msgstr "Fingerprint"
+
+#: str_setPasscodePage_allowToUnlockAppUsingFingerPrint_description
+msgctxt "str_setPasscodePage_allowToUnlockAppUsingFingerPrint_description"
+msgid "지문으로 Wrapsody 앱을 잠금 해제할 수 있도록 허용"
+msgstr "Allow your fingerprint to unlock the Wrapsody app."
+
+#: str_setPasscodePage_successfullyRecognizeFingerPrint_message
+msgctxt "str_setPasscodePage_successfullyRecognizeFingerPrint_message"
+msgid "지문이 인식되었습니다."
+msgstr "Fingerprint recognized"
+
+#: str_setPasscodePage_failedToRecognizeFingerPrint_message
+msgctxt "str_setPasscodePage_failedToRecognizeFingerPrint_message"
+msgid "지문이 인식되지 않았습니다. 다시 시도 해 보세요."
+msgstr "Fingerprint not recognized. Try again"
+
+#: str_requestsManagementPage_reqeustsList_emptyMessage
+msgctxt "str_requestsManagementPage_reqeustsList_emptyMessage"
+msgid "처리할 요청이 없습니다."
+msgstr "There is no request pending."
+
+#: str_loginHistoryPage_title
+msgctxt "str_loginHistoryPage_title"
+msgid "최근 접속한 서버"
+msgstr "Recent Server Settings"
+
+#: str_loginHistoryPage_accessedServerList_emptyMessage
+msgctxt "str_loginHistoryPage_accessedServerList_emptyMessage"
+msgid "최근 접속한 서버 내역이 없습니다."
+msgstr "No server access history."
+
+#: str_recentsPage_title
+msgctxt "str_recentsPage_title"
+msgid "최근 항목"
+msgstr "Recents"
+
+#: str_recentsPage_recentsList_emptyMessage
+msgctxt "str_recentsPage_recentsList_emptyMessage"
+msgid "최근 항목 없음"
+msgstr "There is no recent items."
+
+#: str_dialog_deleteAll_question
+msgctxt "str_dialog_deleteAll_question"
+msgid "최근 항목을 모두 삭제하시겠습니까?"
+msgstr "Are you sure to delete all recent items?"
+
+#: str_dialog_latestRevisionVersion_text_formatted
+msgctxt "str_dialog_latestRevisionVersion_text_formatted"
+msgid "최신 버전"
+msgstr "Latest Version"
+
+#: str_common_cancel
+msgctxt "str_common_cancel"
+msgid "취소"
+msgstr "Cancel"
+
+#: str_common_tag
+msgctxt "str_common_tag"
+msgid "태그"
+msgstr "Tags"
+
+#: str_menuPage_setTag_text
+msgctxt "str_menuPage_setTag_text"
+msgid "태그 설정"
+msgstr "Select Tag(s)"
+
+#: str_setTagPage_title
+msgctxt "str_setTagPage_title"
+msgid "태그 설정"
+msgstr "Select Tag(s)"
+
+#: str_setTagPage_tagInput_placeholder
+msgctxt "str_setTagPage_tagInput_placeholder"
+msgid "태그 입력"
+msgstr "Add or search for a tag"
+
+#: str_setTagPage_successfullySetTags_message
+msgctxt "str_setTagPage_successfullySetTags_message"
+msgid "태그를 설정하였습니다."
+msgstr "Tags are successfully saved."
+
+#: str_common_port
+msgctxt "str_common_port"
+msgid "포트"
+msgstr "Port"
+
+#: str_settingsPage_visitPlayStoreForReview_text
+msgctxt "str_settingsPage_visitPlayStoreForReview_text"
+msgid "플레이스토어에 리뷰 남기기"
+msgstr "Review on the Play Store"
+
+#: str_setTagPage_requiredTagSuffix_text
+msgctxt "str_setTagPage_requiredTagSuffix_text"
+msgid "필수"
+msgstr "Required"
+
+#: str_dilaog_noRequiredTagSet_message
+msgctxt "str_dilaog_noRequiredTagSet_message"
+msgid "필수태그가 설정 되어있지 않습니다."
+msgstr "Required Tag is not selected."
+
+#: str_setTagPage_notAllowedToDeleteRequiredTag_message
+msgctxt "str_setTagPage_notAllowedToDeleteRequiredTag_message"
+msgid "필수태그는 삭제 할 수 없습니다."
+msgstr "Required tag cannot be deleted."
+
+#: str_searchPreferencesPage_searchPeriod;_description
+msgctxt "str_searchPreferencesPage_searchPeriod;_description"
+msgid "해당 기간 동안 리비전 된 문서만 검색됩니다."
+msgstr "Only shows the files revised within specified period."
+
+#: str_dialog_deletedDocument_message
+msgctxt "str_dialog_deletedDocument_message"
+msgid "해당 문서는 서버에서 삭제된 문서입니다."
+msgstr "The document you selected is deleted from server."
+
+#: str_dialog_currentRevisionVersion_text_formatted
+msgctxt "str_dialog_currentRevisionVersion_text_formatted"
+msgid "현재 버전"
+msgstr "Current version"
+
+#: str_common_home
+msgctxt "str_common_home"
+msgid "홈"
+msgstr "Home"
+
+#: str_setDefaultTabPage_title
+msgctxt "str_setDefaultTabPage_title"
+msgid "홈 화면 사용자 지정"
+msgstr "Customize Home Screen"
+
+#: str_settingsPage_setDefaultTab_text
+msgctxt "str_settingsPage_setDefaultTab_text"
+msgid "홈 화면 사용자 지정"
+msgstr "Customize Home Screen"
+
+#: str_common_ok
+msgctxt "str_common_ok"
 msgid "확인"
 msgstr "OK"
 
-#: STR_CANCEL
-#, flag
-# iOS 		: src/WSMainViewController.swift 117
-# Android	: src/WSMainActivity.java 105
-# Windows   : src/WSMain.cpp 60
-# Server	: src/WSMainControl.java 25
-# 취소 버튼 타이틀
-msgid "취소"
-msgstr "Cancel"
+#: str_common_faceId
+msgctxt "str_common_faceId"
+msgid "Face ID"
+msgstr "Face ID"
+
+#: str_common_userId
+msgctxt "str_common_userId"
+msgid "ID"
+msgstr "ID"
+
+#: str_common_touchId
+msgctxt "str_common_touchId"
+msgid "Touch ID"
+msgstr "Touch ID"
+
+#: str_settingsPage_slogan_description
+msgctxt "str_settingsPage_slogan_description"
+msgid "Work Smart with Wrapsody"
+msgstr "Work Smart with Wrapsody"
+
+#: str_common_appName
+msgctxt "str_common_appName"
+msgid "Wrapsody"
+msgstr "Wrapsody"
+
+#: str_settingsPage_visitHomePage_text
+msgctxt "str_settingsPage_visitHomePage_text"
+msgid "Wrapsody 방문하기"
+msgstr "Visit Wrapsody"
+
+#: str_dialog_putFingerPrint_description
+msgctxt "str_dialog_putFingerPrint_description"
+msgid "Wrapsody 잠금해제"
+msgstr "Authentication required to proceed"
+
+#: str_settingsPage_homePage_text
+msgctxt "str_settingsPage_homePage_text"
+msgid "wrapsody.com"
+msgstr "en.wrapsody.com"
+
+#: str_settingsPage_logout_text
+msgctxt "str_settingsPage_logout_text"
+msgid "Wrapsody에서 로그아웃"
+msgstr "Logout from Wrapsody"
+
+#: str_commonFormat_date
+msgctxt "str_commonFormat_date"
+msgid "yyyy/MM/dd"
+msgstr "dd/MM/yyyy"
+
+#: str_common_negative
+msgctxt "str_common_negative"
+msgid "아니오"
+msgstr "No"
+
+#: str_commonFormat_userIdAndNameInPair
+msgctxt "str_commonFormat_userIdAndNameInPair"
+msgid "%s(%s)"
+msgstr "%s(%s)"
+
+#: str_commonPlurals_reviserSuffix_one
+msgctxt "str_commonPlurals_reviserSuffix_one"
+msgid " 외 %d명"
+msgstr " and 1 other"
+
+#: str_commonPlurals_reviserSuffix_other
+msgctxt "str_commonPlurals_reviserSuffix_other"
+msgid " 외 %d명"
+msgstr " and %d others"
+
+#: str_commonPlurals_reviserSuffix_zero
+msgctxt "str_commonPlurals_reviserSuffix_zero"
+msgid ""
+msgstr ""
+
+#: str_myDocumentPage_searchResult_label_formmated
+msgctxt "str_myDocumentPage_searchResult_label_formmated"
+msgid "문서 %d개가 검색되었습니다."
+msgstr "%d documents found."
+
+#: str_notification_approveRequest_message_formatted
+msgctxt "str_notification_approveRequest_message_formatted"
+msgid "%1$s님이 %2$s의 %3$s요청을 승인했습니다."
+msgstr "%1$s has approved %2$s\'s %3$s request."
+
+#: str_notification_cancelRevision_title
+msgctxt "str_notification_cancelRevision_title"
+msgid "리비전취소"
+msgstr "Cancel revision"
+
+#: str_notification_changeDocumentOwner
+msgctxt "str_notification_changeDocumentOwner"
+msgid "문서관리자 변경"
+msgstr "Change Owner"
+
+#: str_notification_rejectRequest_message_formatted
+msgctxt "str_notification_rejectRequest_message_formatted"
+msgid "%1$s님이 %2$s의 %3$s요청을 반려했습니다."
+msgstr "%1$s has rejected %2$s\'s %3$s request."
+
+#: str_notification_rejectRequest_title
+msgctxt "str_notification_rejectRequest_title"
+msgid "요청 반려"
+msgstr "Request rejected"
+
+#: str_notification_requestPermission_title
+msgctxt "str_notification_requestPermission_title"
+msgid "권한 요청"
+msgstr "Permission requested"
+
+#: str_notification_requestSubmitted_message_formatted
+msgctxt "str_notification_requestSubmitted_message_formatted"
+msgid "%1$s님이 %2$s의 %3$s권한을 요청했습니다."
+msgstr "%1$s has sent %2$s\'s %3$s request."
+
+#: str_notification_requestToView_tile
+msgctxt "str_notification_requestToView_tile"
+msgid "열람 요청"
+msgstr "View requested"
+
+#: str_requestsManagementPage_requestsUser_label
+msgctxt "str_requestsManagementPage_requestsUser_label"
+msgid "요청자"
+msgstr "Requested by"
