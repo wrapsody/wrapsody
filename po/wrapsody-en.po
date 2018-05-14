@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: English (Wrapsody)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-19 07:06+0000\n"
-"PO-Revision-Date: 2018-05-14 05:33+0000\n"
+"PO-Revision-Date: 2018-05-14 05:34+0000\n"
 "Last-Translator: wrapsody <wrapsody.dev@gmail.com>\n"
 "Language-Team: wrapsody_EN (generated) <http://192.168.20.72:7070/projects/"
 "wrapsody/master/wrapsody_EN/>\n"
@@ -137,12 +137,12 @@ msgstr "Search"
 #: str_common_emptySearchMessage
 msgctxt "str_common_emptySearchMessage"
 msgid "검색 결과가 없습니다."
-msgstr "No search results"
+msgstr "No search results."
 
 #: str_setUserPage_filterableUserList_emptyMessage
 msgctxt "str_setUserPage_filterableUserList_emptyMessage"
 msgid "검색 결과가 없습니다."
-msgstr "No Results"
+msgstr "No Results."
 
 #: str_searchPreferencesPage_title
 msgctxt "str_searchPreferencesPage_title"
@@ -272,7 +272,7 @@ msgstr "Request Revise Permission"
 #: str_requestOnDocumentPage_revisingUser_label
 msgctxt "str_requestOnDocumentPage_revisingUser_label"
 msgid "리비전 중인 사용자"
-msgstr "Checked out by "
+msgstr "Checked out by"
 
 #: str_requestManagementPage_requestToCancelRevisioning_label
 msgctxt "str_requestManagementPage_requestToCancelRevisioning_label"
@@ -507,7 +507,7 @@ msgstr "Choose your passcode."
 #: str_setPasscodePage_unlockPasscode_description
 msgctxt "str_setPasscodePage_unlockPasscode_description"
 msgid "비밀번호를 입력하세요."
-msgstr "Enter your passcode"
+msgstr "Enter your passcode."
 
 #: str_menuPage_sendCopy_text
 msgctxt "str_menuPage_sendCopy_text"
@@ -617,7 +617,7 @@ msgstr "YESTERDAY"
 #: str_setPasscodePage_allowToUnlockAppUsingFaceId_description
 msgctxt "str_setPasscodePage_allowToUnlockAppUsingFaceId_description"
 msgid "얼굴인식으로 Wrapsody 앱을 잠금 해제할 수 있도록 허용"
-msgstr "Allow your face recognition to unlock the Wrapsody app."
+msgstr "Allow your face recognition to unlock the Wrapsody app"
 
 #: str_common_none
 msgctxt "str_common_none"
@@ -832,17 +832,17 @@ msgstr "Fingerprint"
 #: str_setPasscodePage_allowToUnlockAppUsingFingerPrint_description
 msgctxt "str_setPasscodePage_allowToUnlockAppUsingFingerPrint_description"
 msgid "지문으로 Wrapsody 앱을 잠금 해제할 수 있도록 허용"
-msgstr "Allow your fingerprint to unlock the Wrapsody app."
+msgstr "Allow your fingerprint to unlock the Wrapsody app"
 
 #: str_setPasscodePage_successfullyRecognizeFingerPrint_message
 msgctxt "str_setPasscodePage_successfullyRecognizeFingerPrint_message"
 msgid "지문이 인식되었습니다."
-msgstr "Fingerprint recognized"
+msgstr "Fingerprint recognized."
 
 #: str_setPasscodePage_failedToRecognizeFingerPrint_message
 msgctxt "str_setPasscodePage_failedToRecognizeFingerPrint_message"
 msgid "지문이 인식되지 않았습니다. 다시 시도 해 보세요."
-msgstr "Fingerprint not recognized. Try again"
+msgstr "Fingerprint not recognized. Try again."
 
 #: str_requestsManagementPage_reqeustsList_emptyMessage
 msgctxt "str_requestsManagementPage_reqeustsList_emptyMessage"
@@ -867,7 +867,7 @@ msgstr "Recents"
 #: str_recentsPage_recentsList_emptyMessage
 msgctxt "str_recentsPage_recentsList_emptyMessage"
 msgid "최근 항목 없음"
-msgstr "There is no recent items."
+msgstr "There is no recent items"
 
 #: str_dialog_deleteAll_question
 msgctxt "str_dialog_deleteAll_question"
