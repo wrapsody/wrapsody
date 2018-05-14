@@ -32,7 +32,7 @@ msgstr "(%s)"
 
 #: str_setTagPage_filterableTagList_userTagWillBeAdded_description
 msgctxt "str_setTagPage_filterableTagList_userTagWillBeAdded_description"
-msgid "\n입력하면 사용자 태그로 추가합니다."
+msgid "입력하면 사용자 태그로 추가합니다."
 msgstr "Add your own tag by tapping done."
 
 #: REQUEST_REJECT_REVISER
@@ -1042,7 +1042,7 @@ msgstr " and %d others"
 
 #: str_commonPlurals_reviserSuffix_zero
 msgctxt "str_commonPlurals_reviserSuffix_zero"
-msgid ""
+msgid "빈값문자열입니다."
 msgstr ""
 
 #: str_myDocumentPage_searchResult_label_formmated

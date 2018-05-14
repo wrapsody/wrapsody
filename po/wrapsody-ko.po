@@ -32,8 +32,8 @@ msgstr "(%s)"
 
 #: str_setTagPage_filterableTagList_userTagWillBeAdded_description
 msgctxt "str_setTagPage_filterableTagList_userTagWillBeAdded_description"
-msgid "\n입력하면 사용자 태그로 추가합니다."
-msgstr "\n입력하면 사용자 태그로 추가합니다."
+msgid "입력하면 사용자 태그로 추가합니다."
+msgstr "입력하면 사용자 태그로 추가합니다."
 
 #: REQUEST_REJECT_REVISER
 msgctxt "REQUEST_REJECT_REVISER"
@@ -1042,7 +1042,7 @@ msgstr " 외 %d명"
 
 #: str_commonPlurals_reviserSuffix_zero
 msgctxt "str_commonPlurals_reviserSuffix_zero"
-msgid ""
+msgid "빈 문자열로 사용 됩니다."
 msgstr ""
 
 #: str_myDocumentPage_searchResult_label_formmated
