@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: English (Wrapsody)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-19 07:06+0000\n"
-"PO-Revision-Date: 2018-05-14 05:52+0000\n"
+"PO-Revision-Date: 2018-05-14 05:53+0000\n"
 "Last-Translator: wrapsody <wrapsody.dev@gmail.com>\n"
 "Language-Team: wrapsody_EN (generated) <http://192.168.20.72:7070/projects/"
 "wrapsody/master/wrapsody_EN/>\n"
@@ -1042,7 +1042,7 @@ msgstr " and %d others"
 #: str_commonPlurals_reviserSuffix_zero
 msgctxt "str_commonPlurals_reviserSuffix_zero"
 msgid "빈값문자열입니다."
-msgstr ""
+msgstr " "
 
 #: str_myDocumentPage_searchResult_label_formmated
 msgctxt "str_myDocumentPage_searchResult_label_formmated"
