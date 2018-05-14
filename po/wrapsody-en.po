@@ -867,7 +867,7 @@ msgstr "Recents"
 
 #: str_recentsPage_recentsList_emptyMessage
 msgctxt "str_recentsPage_recentsList_emptyMessage"
-msgid "최근 항목 없음"
+msgid "최근 항목 없음."
 msgstr "There is no recent items."
 
 #: str_dialog_deleteAll_question
