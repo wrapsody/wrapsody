@@ -34,6 +34,11 @@ msgctxt "str_setTagPage_filterableTagList_userTagWillBeAdded_description"
 msgid "입력하면 사용자 태그로 추가합니다."
 msgstr "입력하면 사용자 태그로 추가합니다."
 
+#: str_common_search
+msgctxt "str_common_search"
+msgid "검색"
+msgstr "검색"
+
 #: REQUEST_REJECT_REVISER
 msgctxt "REQUEST_REJECT_REVISER"
 msgid "%@님이 %@의 리비전 권한을 반려했습니다."
