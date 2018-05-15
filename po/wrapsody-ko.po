@@ -879,8 +879,8 @@ msgctxt "str_dialog_deleteAll_question"
 msgid "최근 항목을 모두 삭제하시겠습니까?"
 msgstr "최근 항목을 모두 삭제하시겠습니까?"
 
-#: str_dialog_latestRevisionVersion_text_formatted
-msgctxt "str_dialog_latestRevisionVersion_text_formatted"
+#: str_dialog_latestRevisionVersion_text
+msgctxt "str_dialog_latestRevisionVersion_text"
 msgid "최신 버전"
 msgstr "최신 버전"
 
@@ -949,8 +949,8 @@ msgctxt "str_dialog_deletedDocument_message"
 msgid "해당 문서는 서버에서 삭제된 문서입니다."
 msgstr "해당 문서는 서버에서 삭제된 문서입니다."
 
-#: str_dialog_currentRevisionVersion_text_formatted
-msgctxt "str_dialog_currentRevisionVersion_text_formatted"
+#: str_dialog_currentRevisionVersion_text
+msgctxt "str_dialog_currentRevisionVersion_text"
 msgid "현재 버전"
 msgstr "현재 버전"
 
