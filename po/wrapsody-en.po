@@ -264,8 +264,8 @@ msgctxt "str_requestOnDocumentPage_reviser_label"
 msgid "리비전 권한 소유자"
 msgstr "Revisers"
 
-#: str_requestManagementPage_requestToDeleteRevisionVersion_label
-msgctxt "str_requestManagementPage_requestToDeleteRevisionVersion_label"
+#: str_requestManagementPage_requestToRevisionVersionPermission_label
+msgctxt "str_requestManagementPage_requestToRevisionVersionPermission_label"
 msgid "리비전 권한 요청"
 msgstr "Revise Permission"
 
@@ -304,8 +304,8 @@ msgctxt "str_recentsPage_deleteAll_text"
 msgid "모두 삭제"
 msgstr "Delete All"
 
-#: str_commenPage_notifyRegardlessOfNotificationPreferences_description
-msgctxt "str_commenPage_notifyRegardlessOfNotificationPreferences_description"
+#: str_commentPage_notifyRegardlessOfNotificationPreferences_description
+msgctxt "str_commentPage_notifyRegardlessOfNotificationPreferences_description"
 msgid "모든 권한 소유자에게 알림 설정에 관계없이 의견 알림 보내기"
 msgstr "Send notification to all users with permission regardless of their notification settings"
 
@@ -369,8 +369,8 @@ msgctxt "str_requestOnDocumentPage_requestCancelRevisioning_description"
 msgid "문서를 리비전 중인 사용자에게 리비전 취소를 요청합니다."
 msgstr "Tap this button to ask the user to check in this document."
 
-#: str_common_openningDocument
-msgctxt "str_common_openningDocument"
+#: str_common_openingDocument
+msgctxt "str_common_openingDocument"
 msgid "문서를 여는 중 입니다…"
 msgstr "Opening document…"
 
@@ -489,13 +489,13 @@ msgctxt "str_setPasscodePage_mismatch_description"
 msgid "비밀번호가 일치하지 않습니다."
 msgstr "Passcodes didn\'t match."
 
-#: str_setPasscodePage_failedMoreThanAlllowedAttempts_description_formatted
-msgctxt "str_setPasscodePage_failedMoreThanAlllowedAttempts_description_formatted"
+#: str_setPasscodePage_failedMoreThanAllowedAttempts_description_formatted
+msgctxt "str_setPasscodePage_failedMoreThanAllowedAttempts_description_formatted"
 msgid "비밀번호를 %d회 이상 잘못 입력하면 Wrapsody에서 로그아웃됩니다."
 msgstr "You will be logged out of Wrapsody after %d failed passcode attempts."
 
-#: str_setPasscodePage_failedMoreThanAlllowedAttempts_message_formatted
-msgctxt "str_setPasscodePage_failedMoreThanAlllowedAttempts_message_formatted"
+#: str_setPasscodePage_failedMoreThanAllowedAttempts_message_formatted
+msgctxt "str_setPasscodePage_failedMoreThanAllowedAttempts_message_formatted"
 msgid "비밀번호를 %d회 이상 잘못 입력하면 Wrapsody에서 로그아웃됩니다."
 msgstr "You will be logged out of Wrapsody after %d failed passcode attempts."
 
@@ -564,7 +564,7 @@ msgctxt "str_setTagPage_optionalTagSuffix_text"
 msgid "선택"
 msgstr "Optional"
 
-#: str_dialog_deleteAccessedServerInfomation_question
+#: str_dialog_deleteAccessedServerInformation_question
 msgctxt "str_dialog_deleteAccessedServerInfomation_question"
 msgid "선택한 접속 정보를 삭제 하시겠습니까?"
 msgstr "Are you sure to delete the access history?"
@@ -744,8 +744,8 @@ msgctxt "str_common_comment"
 msgid "의견"
 msgstr "Comment"
 
-#: str_commentPage_notifyAccordingToNotificationPerferences_description
-msgctxt "str_commentPage_notifyAccordingToNotificationPerferences_description"
+#: str_commentPage_notifyAccordingToNotificationPreferences_description
+msgctxt "str_commentPage_notifyAccordingToNotificationPreferences_description"
 msgid "의견알림설정에 따라 알림을 받습니다."
 msgstr "Notify according to the notification settings."
 
@@ -849,8 +849,8 @@ msgctxt "str_setPasscodePage_failedToRecognizeFingerPrint_message"
 msgid "지문이 인식되지 않았습니다. 다시 시도 해 보세요."
 msgstr "Fingerprint not recognized. Try again."
 
-#: str_requestsManagementPage_reqeustsList_emptyMessage
-msgctxt "str_requestsManagementPage_reqeustsList_emptyMessage"
+#: str_requestsManagementPage_requestsList_emptyMessage
+msgctxt "str_requestsManagementPage_requestsList_emptyMessage"
 msgid "처리할 요청이 없습니다."
 msgstr "There is no request pending."
 
@@ -929,8 +929,8 @@ msgctxt "str_setTagPage_requiredTagSuffix_text"
 msgid "필수"
 msgstr "Required"
 
-#: str_dilaog_noRequiredTagSet_message
-msgctxt "str_dilaog_noRequiredTagSet_message"
+#: str_dialog_noRequiredTagSet_message
+msgctxt "str_dialog_noRequiredTagSet_message"
 msgid "필수태그가 설정 되어있지 않습니다."
 msgstr "Required Tag is not selected."
 
@@ -939,7 +939,7 @@ msgctxt "str_setTagPage_notAllowedToDeleteRequiredTag_message"
 msgid "필수태그는 삭제 할 수 없습니다."
 msgstr "Required tag cannot be deleted."
 
-#: str_searchPreferencesPage_searchPeriod;_description
+#: str_searchPreferencesPage_searchPeriod_description
 msgctxt "str_searchPreferencesPage_searchPeriod;_description"
 msgid "해당 기간 동안 리비전 된 문서만 검색됩니다."
 msgstr "Only shows the files revised within specified period."
@@ -1033,21 +1033,6 @@ msgstr "No"
 msgctxt "str_commonFormat_userIdAndNameInPair"
 msgid "%s(%s)"
 msgstr "%s(%s)"
-
-#: str_commonPlurals_reviserSuffix_one
-msgctxt "str_commonPlurals_reviserSuffix_one"
-msgid " 외 %d명"
-msgstr " and 1 other"
-
-#: str_commonPlurals_reviserSuffix_other
-msgctxt "str_commonPlurals_reviserSuffix_other"
-msgid " 외 %d명"
-msgstr " and %d others"
-
-#: str_commonPlurals_reviserSuffix_zero
-msgctxt "str_commonPlurals_reviserSuffix_zero"
-msgid "빈값문자열입니다."
-msgstr " "
 
 #: str_myDocumentPage_searchResult_label_formmated
 msgctxt "str_myDocumentPage_searchResult_label_formmated"
