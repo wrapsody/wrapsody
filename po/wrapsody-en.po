@@ -1049,7 +1049,7 @@ msgctxt "str_commonFormat_secondValueInParenthesis"
 msgid "%s(%s)"
 msgstr "%s(%s)"
 
-#: sstr_myDocumentPage_searchResult_label_formatted
+#: str_myDocumentPage_searchResult_label_formatted
 msgctxt "sstr_myDocumentPage_searchResult_label_formatted"
 msgid "문서 %d개가 검색되었습니다."
 msgstr "%d documents found."
