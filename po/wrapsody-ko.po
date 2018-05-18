@@ -1104,8 +1104,6 @@ msgctxt "str_requestsManagementPage_requestsUser_label"
 msgid "요청자"
 msgstr "요청자"
 
-#. testtest
-#. 테스트테스트 
 #: str_common_revisionDate
 msgctxt "str_common_revisionDate"
 msgid "리비전 날짜"
