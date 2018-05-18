@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Korean (Wrapsody)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-19 07:04+0000\n"
-"PO-Revision-Date: 2018-05-15 07:38+0000\n"
+"PO-Revision-Date: 2018-05-18 08:49+0000\n"
 "Last-Translator: wrapsody <wrapsody.dev@gmail.com>\n"
 "Language-Team: wrapsody_KO (generated) <http://192.168.20.72:7070/projects/"
 "wrapsody/master/wrapsody_KO/>\n"
@@ -109,8 +109,8 @@ msgctxt "READ_REQUEST"
 msgid "%@님이 %@의 열람을 요청했습니다."
 msgstr "%@님이 %@의 열람을 요청했습니다."
 
-#, c-format
 #: str_notification_requestToView_message_formatted
+#, c-format
 msgctxt "str_notification_requestToView_message_formatted"
 msgid "%1$s님이 %2$s의 열람을 요청했습니다."
 msgstr "%1$s님이 %2$s의 열람을 요청했습니다."
@@ -258,7 +258,7 @@ msgstr "로그아웃"
 #: str_dialog_logoutAlert_message
 msgctxt "str_dialog_logoutAlert_message"
 msgid "로그아웃하면 자동 로그인이 해제 됩니다. 로그아웃하시겠습니까?"
-msgstr "로그아웃하면 자동 로그인이 해제 됩니다. 로그아웃하시겠습니까?"
+msgstr "로그아웃하면 자동 로그인이 해제됩니다. 로그아웃하시겠습니까?"
 
 #: str_common_login
 msgctxt "str_common_login"
@@ -366,9 +366,9 @@ msgid "리비전 권한을 요청했습니다."
 msgstr "리비전 권한을 요청했습니다."
 
 #: str_dialog_successfullyRequestedRevisePermission_message 
-msgctxt "str_dialog_successfullyRequestedRevisePermission_message" 
-msgid "리비전 권한을 요청했습니다." 
-msgstr "리비전 권한을 요청했습니다." 
+msgctxt "str_dialog_successfullyRequestedRevisePermission_message"
+msgid "리비전 권한을 요청했습니다."
+msgstr "리비전 권한을 요청했습니다."
 
 #: str_common_documentName
 msgctxt "str_common_documentName"
