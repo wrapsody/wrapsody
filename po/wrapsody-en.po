@@ -109,6 +109,7 @@ msgctxt "READ_REQUEST"
 msgid "%@님이 %@의 열람을 요청했습니다."
 msgstr "%@ requested a read for %@."
 
+#, c-format
 #: str_notification_requestToView_message_formatted
 msgctxt "str_notification_requestToView_message_formatted"
 msgid "%1$s님이 %2$s의 열람을 요청했습니다."
