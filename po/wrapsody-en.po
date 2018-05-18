@@ -29,6 +29,11 @@ msgctxt "str_commonFormat_valueInParenthesis"
 msgid "(%s)"
 msgstr "(%s)"
 
+#: str_commonFormat_valueInParenthesis_iOS
+msgctxt "str_commonFormat_valueInParenthesis_iOS"
+msgid "(%@)"
+msgstr "(%@)"
+
 #: str_setTagPage_filterableTagList_userTagWillBeAdded_description
 msgctxt "str_setTagPage_filterableTagList_userTagWillBeAdded_description"
 msgid "입력하면 사용자 태그로 추가합니다."
@@ -119,10 +124,20 @@ msgctxt "str_commonFormat_colonSuffixed"
 msgid "%s: "
 msgstr "%s: "
 
+#: str_commonFormat_colonSuffixed_iOS
+msgctxt "str_commonFormat_colonSuffixed_iOS"
+msgid "%@: "
+msgstr "%@: "
+
 #: str_commonFormat_separatedByColon
 msgctxt "str_commonFormat_separatedByColon"
-msgid "%s: %s:"
+msgid "%s: %s"
 msgstr "%s: %s"
+
+#: str_commonFormat_separatedByColon_iOS
+msgctxt "str_commonFormat_separatedByColon_iOS"
+msgid "%@: %@"
+msgstr "%@: %@"
 
 #: str_setPasscodePage_requireFrequency10Minutes_text
 msgctxt "str_setPasscodePage_requireFrequency10Minutes_text"
