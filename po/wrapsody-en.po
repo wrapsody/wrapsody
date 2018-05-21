@@ -499,6 +499,11 @@ msgctxt "str_setPasscodePage_disablePasscode_text"
 msgid "비밀번호 해제"
 msgstr "Turn Passcode Off"
 
+#: str_setPasscodePage_enablePasscode_text
+msgctxt "str_setPasscodePage_enablePasscode_text"
+msgid "비밀번호 설정"
+msgstr "Turn Passcode On"
+
 #: str_setPasscodePage_confirmPasscode_text
 msgctxt "str_setPasscodePage_confirmPasscode_text"
 msgid "비밀번호 확인"
