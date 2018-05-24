@@ -3,36 +3,37 @@ msgstr ""
 "Project-Id-Version: Korean (Wrapsody)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-19 07:04+0000\n"
-"PO-Revision-Date: 2018-05-18 08:49+0000\n"
+"PO-Revision-Date: 2018-05-25 01:52+0000\n"
 "Last-Translator: wrapsody <wrapsody.dev@gmail.com>\n"
-"Language: ko\n"
-"Language-Team: ko <wrapsody.dev@gmail.com>\n"
+"Language-Team: wrapsody_KO (generated) <http://192.168.20.72:7070/projects/"
+"wrapsody/master/wrapsody_KO/>\n"
+"Language: wrapsody-ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 2.20\n"
 
-#, c-format
 #: str_myDocumentPage_docItemRevisionDate_text_formatted
+#, c-format
 msgctxt "str_myDocumentPage_docItemRevisionDate_text_formatted"
 msgid ", %1$s"
 msgstr ", %1$s"
 
-#, c-format
 #: str_myDocumentPage_docItemRevisionValue_text_formatted
+#, c-format
 msgctxt "str_myDocumentPage_docItemRevisionValue_text_formatted"
 msgid "셀에 버전표시하는 부분"
 msgstr ", ver %1$d"
 
-#, c-format
 #: str_commonFormat_valueInParenthesis
+#, c-format
 msgctxt "str_commonFormat_valueInParenthesis"
 msgid "(%1$s)"
 msgstr "(%1$s)"
 
-#, c-format
 #: str_commonFormat_valueInParenthesis_iOS
+#, c-format
 msgctxt "str_commonFormat_valueInParenthesis_iOS"
 msgid "(%@)"
 msgstr "(%@)"
@@ -47,116 +48,116 @@ msgctxt "str_common_search"
 msgid "검색"
 msgstr "검색"
 
-#, c-format
 #: REQUEST_REJECT_REVISER
+#, c-format
 msgctxt "REQUEST_REJECT_REVISER"
 msgid "%@님이 %@의 리비전 권한을 반려했습니다."
 msgstr "%@님이 %@의 리비전 권한을 반려했습니다."
 
-#, c-format
 #: REQUEST_ACCEPT_REVISER
+#, c-format
 msgctxt "REQUEST_ACCEPT_REVISER"
 msgid "%@님이 %@의 리비전 권한을 승인했습니다."
 msgstr "%@님이 %@의 리비전 권한을 승인했습니다."
 
-#, c-format
 #: REQUEST_SUBMIT_REVISER
+#, c-format
 msgctxt "REQUEST_SUBMIT_REVISER"
 msgid "%@님이 %@의 리비전 권한을 요청했습니다."
 msgstr "%@님이 %@의 리비전 권한을 요청했습니다."
 
-#, c-format
 #: REQUEST_REJECT_CHECKOUT
+#, c-format
 msgctxt "REQUEST_REJECT_CHECKOUT"
 msgid "%@님이 %@의 리비전 취소를 반려했습니다."
 msgstr "%@님이 %@의 리비전 취소를 반려했습니다."
 
-#, c-format
 #: REQUEST_ACCEPT_CHECKOUT
+#, c-format
 msgctxt "REQUEST_ACCEPT_CHECKOUT"
 msgid "%@님이 %@의 리비전 취소를 승인했습니다."
 msgstr "%@님이 %@의 리비전 취소를 승인했습니다."
 
-#, c-format
 #: REQUEST_SUBMIT_CHECKOUT
+#, c-format
 msgctxt "REQUEST_SUBMIT_CHECKOUT"
 msgid "%@님이 %@의 리비전 취소를 요청했습니다."
 msgstr "%@님이 %@의 리비전 취소를 요청했습니다."
 
-#, c-format
 #: REQUEST_REJECT_MASTER
+#, c-format
 msgctxt "REQUEST_REJECT_MASTER"
 msgid "%@님이 %@의 문서 관리자 권한을 반려했습니다."
 msgstr "%@님이 %@의 문서 관리자 권한을 반려했습니다."
 
-#, c-format
 #: REQUEST_ACCEPT_MASTER
+#, c-format
 msgctxt "REQUEST_ACCEPT_MASTER"
 msgid "%@님이 %@의 문서 관리자 권한을 승인했습니다."
 msgstr "%@님이 %@의 문서 관리자 권한을 승인했습니다."
 
-#, c-format
 #: REQUEST_SUBMIT_MASTER
+#, c-format
 msgctxt "REQUEST_SUBMIT_MASTER"
 msgid "%@님이 %@의 문서 관리자 권한을 요청했습니다."
 msgstr "%@님이 %@의 문서 관리자 권한을 요청했습니다."
 
-#, c-format
 #: REQUEST_REJECT_VIEWER
+#, c-format
 msgctxt "REQUEST_REJECT_VIEWER"
 msgid "%@님이 %@의 열람 권한을 반려했습니다."
 msgstr "%@님이 %@의 열람 권한을 반려했습니다."
 
-#, c-format
 #: REQUEST_ACCEPT_VIEWER
+#, c-format
 msgctxt "REQUEST_ACCEPT_VIEWER"
 msgid "%@님이 %@의 열람 권한을 승인했습니다."
 msgstr "%@님이 %@의 열람 권한을 승인했습니다."
 
-#, c-format
 #: REQUEST_SUBMIT_VIEWER
+#, c-format
 msgctxt "REQUEST_SUBMIT_VIEWER"
 msgid "%@님이 %@의 열람 권한을 요청했습니다."
 msgstr "%@님이 %@의 열람 권한을 요청했습니다."
 
-#, c-format
 #: READ_REQUEST
+#, c-format
 msgctxt "READ_REQUEST"
 msgid "%@님이 %@의 열람을 요청했습니다."
 msgstr "%@님이 %@의 열람을 요청했습니다."
 
-#, c-format
 #: str_notification_requestToView_message_formatted
+#, c-format
 msgctxt "str_notification_requestToView_message_formatted"
 msgid "%1$s님이 %2$s의 열람을 요청했습니다."
 msgstr "%1$s님이 %2$s의 열람을 요청했습니다."
 
-#, c-format
 #: str_dialog_failedToUnlock_message_formatted
+#, c-format
 msgctxt "str_dialog_failedToUnlock_message_formatted"
 msgid "%1$d회 실패"
 msgstr "%1$d회 실패"
 
-#, c-format
 #: str_commonFormat_colonSuffixed
+#, c-format
 msgctxt "str_commonFormat_colonSuffixed"
 msgid "%1$s: "
 msgstr "%1$s: "
 
-#, c-format
 #: str_commonFormat_colonSuffixed_iOS
+#, c-format
 msgctxt "str_commonFormat_colonSuffixed_iOS"
 msgid "%@:"
 msgstr "%@:"
 
-#, c-format
 #: str_commonFormat_separatedByColon
+#, c-format
 msgctxt "str_commonFormat_separatedByColon"
 msgid "%1$s: %2$s"
 msgstr "%1$s: %2$s"
 
-#, c-format
 #: str_commonFormat_separatedByColon_iOS
+#, c-format
 msgctxt "str_commonFormat_separatedByColon_iOS"
 msgid "%@: %@"
 msgstr "%@: %@"
@@ -324,12 +325,12 @@ msgstr "리비전 중인 사용자"
 #: str_requestManagementPage_requestToCancelRevisioning_label
 msgctxt "str_requestManagementPage_requestToCancelRevisioning_label"
 msgid "리비전 취소 요청"
-msgstr "리비전 취소 요청"
+msgstr "리비전 중단 요청"
 
 #: str_requestOnDocumentPage_requestCancelRevisioning_text
 msgctxt "str_requestOnDocumentPage_requestCancelRevisioning_text"
 msgid "리비전 취소 요청"
-msgstr "리비전 취소 요청"
+msgstr "리비전 중단 요청"
 
 #: str_dialog_requestedToCancelRevisioning_message
 msgctxt "str_dialog_requestedToCancelRevisioning_message"
@@ -414,7 +415,7 @@ msgstr "문서 정보"
 #: str_requestOnDocumentPage_requestCancelRevisioning_description
 msgctxt "str_requestOnDocumentPage_requestCancelRevisioning_description"
 msgid "문서를 리비전 중인 사용자에게 리비전 취소를 요청합니다."
-msgstr "문서를 리비전 중인 사용자에게 리비전 취소를 요청합니다."
+msgstr "문서를 리비전 중인 사용자에게 리비전 중단을 요청합니다."
 
 #: str_common_openingDocument
 msgctxt "str_common_openingDocument"
@@ -711,14 +712,14 @@ msgctxt "str_dialog_requestedViewPermission_message"
 msgid "열람 권한을 요청했습니다."
 msgstr "열람 권한을 요청했습니다."
 
-#, c-format
 #: str_notification_opponentViewed_message_formatted
+#, c-format
 msgctxt "str_notification_opponentViewed_message_formatted"
 msgid "열람 요청 한 %2$s(을)를 %1$s님이 열람하였습니다."
 msgstr "열람 요청 한 %2$s(을)를 %1$s님이 열람하였습니다."
 
-#, c-format
 #: READ_REQUEST_ALERT
+#, c-format
 msgctxt "READ_REQUEST_ALERT"
 msgid "열람 요청하신 %2$@(을)를 %1$@님이 열람하였습니다."
 msgstr "열람 요청하신 %2$@(을)를 %1$@님이 열람하였습니다."
@@ -1078,20 +1079,20 @@ msgctxt "str_commonFormat_date"
 msgid "yyyy/MM/dd"
 msgstr "yyyy/MM/dd"
 
-#, c-format
 #: str_commonFormat_secondValueInParenthesis
+#, c-format
 msgctxt "str_commonFormat_secondValueInParenthesis"
 msgid "%1$s(%2$s)"
 msgstr "%1$s(%2$s)"
 
-#, c-format
 #: str_myDocumentPage_searchResult_label_formatted
+#, c-format
 msgctxt "str_myDocumentPage_searchResult_label_formatted"
 msgid "문서 %1$d개가 검색되었습니다."
 msgstr "문서 %1$d개가 검색되었습니다."
 
-#, c-format
 #: str_notification_approveRequest_message_formatted
+#, c-format
 msgctxt "str_notification_approveRequest_message_formatted"
 msgid "%1$s님이 %2$s의 %3$s요청을 승인했습니다."
 msgstr "%1$s님이 %2$s의 %3$s요청을 승인했습니다."
@@ -1106,8 +1107,8 @@ msgctxt "str_notification_changeDocumentOwner"
 msgid "문서관리자 변경"
 msgstr "문서관리자 변경"
 
-#, c-format
 #: str_notification_rejectRequest_message_formatted
+#, c-format
 msgctxt "str_notification_rejectRequest_message_formatted"
 msgid "%1$s님이 %2$s의 %3$s요청을 반려했습니다."
 msgstr "%1$s님이 %2$s의 %3$s요청을 반려했습니다."
@@ -1122,8 +1123,8 @@ msgctxt "str_notification_requestPermission_title"
 msgid "권한 요청"
 msgstr "권한 요청"
 
-#, c-format
 #: str_notification_requestSubmitted_message_formatted
+#, c-format
 msgctxt "str_notification_requestSubmitted_message_formatted"
 msgid "%1$s님이 %2$s의 %3$s권한을 요청했습니다."
 msgstr "%1$s님이 %2$s의 %3$s권한을 요청했습니다."
