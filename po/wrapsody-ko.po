@@ -323,7 +323,7 @@ msgstr "리비전 중인 사용자"
 
 #: str_requestManagementPage_requestToCancelRevisioning_label
 msgctxt "str_requestManagementPage_requestToCancelRevisioning_label"
-msgid "리비전 중단 요청"
+msgid "리비전 취소 요청"
 msgstr "리비전 취소 요청"
 
 #: str_requestOnDocumentPage_requestCancelRevisioning_text
