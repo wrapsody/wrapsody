@@ -612,7 +612,7 @@ msgid "선택"
 msgstr "Optional"
 
 #: str_dialog_deleteAccessedServerInformation_question
-msgctxt "str_dialog_deleteAccessedServerInfomation_question"
+msgctxt "str_dialog_deleteAccessedServerInformation_question"
 msgid "선택한 접속 정보를 삭제 하시겠습니까?"
 msgstr "Are you sure to delete the access history?"
 
