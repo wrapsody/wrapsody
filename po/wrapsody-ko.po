@@ -831,8 +831,8 @@ msgstr "이 문서의 관리자 권한을 요청합니다."
 
 #: str_dialog_requestPermission_question
 msgctxt "str_dialog_requestPermission_question"
-msgid "이 문서의 내용을 열람하려면, 문서 관리자에게 권한을 요청해야 합니다.  요청할 권한을 선택하십시오."
-msgstr "이 문서의 내용을 열람하려면, 문서 관리자에게 권한을 요청해야 합니다.  요청할 권한을 선택하십시오."
+msgid "이 문서의 내용을 열람하려면, 문서 관리자에게 권한을 요청해야 합니다."
+msgstr "이 문서의 내용을 열람하려면, 문서 관리자에게 권한을 요청해야 합니다."
 
 #: str_common_history
 msgctxt "str_common_history"
@@ -1079,20 +1079,20 @@ msgctxt "str_commonFormat_date"
 msgid "yyyy/MM/dd"
 msgstr "yyyy/MM/dd"
 
-#: str_commonFormat_secondValueInParenthesis
 #, c-format
+#: str_commonFormat_secondValueInParenthesis
 msgctxt "str_commonFormat_secondValueInParenthesis"
 msgid "%1$s(%2$s)"
 msgstr "%1$s(%2$s)"
 
-#: str_myDocumentPage_searchResult_label_formatted
 #, c-format
+#: str_myDocumentPage_searchResult_label_formatted
 msgctxt "str_myDocumentPage_searchResult_label_formatted"
 msgid "문서 %1$d개가 검색되었습니다."
 msgstr "문서 %1$d개가 검색되었습니다."
 
-#: str_notification_approveRequest_message_formatted
 #, c-format
+#: str_notification_approveRequest_message_formatted
 msgctxt "str_notification_approveRequest_message_formatted"
 msgid "%1$s님이 %2$s의 %3$s요청을 승인했습니다."
 msgstr "%1$s님이 %2$s의 %3$s요청을 승인했습니다."
@@ -1107,8 +1107,8 @@ msgctxt "str_notification_changeDocumentOwner"
 msgid "문서관리자 변경"
 msgstr "문서관리자 변경"
 
-#: str_notification_rejectRequest_message_formatted
 #, c-format
+#: str_notification_rejectRequest_message_formatted
 msgctxt "str_notification_rejectRequest_message_formatted"
 msgid "%1$s님이 %2$s의 %3$s요청을 반려했습니다."
 msgstr "%1$s님이 %2$s의 %3$s요청을 반려했습니다."
@@ -1123,8 +1123,8 @@ msgctxt "str_notification_requestPermission_title"
 msgid "권한 요청"
 msgstr "권한 요청"
 
-#: str_notification_requestSubmitted_message_formatted
 #, c-format
+#: str_notification_requestSubmitted_message_formatted
 msgctxt "str_notification_requestSubmitted_message_formatted"
 msgid "%1$s님이 %2$s의 %3$s권한을 요청했습니다."
 msgstr "%1$s님이 %2$s의 %3$s권한을 요청했습니다."
@@ -1144,7 +1144,23 @@ msgctxt "str_common_revisionDate"
 msgid "리비전 날짜"
 msgstr "리비전 날짜"
 
+#, c-format
 #: str_recentsPage_recentsListItem_revision_formatted
 msgctxt "str_recentsPage_recentsListItem_revision_formatted"
 msgid "ver %1$d"
 msgstr "ver %1$d"
+
+#: str_requestOnDocumentPage_requestViewPermission_text
+msgctxt "str_requestOnDocumentPage_requestViewPermission_text"
+msgid "열람 권한 요청"
+msgstr "열람 권한 요청"
+
+#: str_requestOnDocumentPage_viewPermission_description
+msgctxt "str_requestOnDocumentPage_viewPermission_description"
+msgid "이 문서를 열람 하기 위한 권한을 요청합니다."
+msgstr "이 문서를 열람 하기 위한 권한을 요청합니다."
+ 
+#: str_requestOnDocumentPage_viewer_label
+msgctxt "str_requestOnDocumentPage_viewer_label"
+msgid "열람 권한 소유자"
+msgstr "열람 권한 소유자"
