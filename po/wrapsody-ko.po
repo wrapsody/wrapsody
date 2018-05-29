@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Korean (Wrapsody)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-19 07:04+0000\n"
-"PO-Revision-Date: 2018-05-25 01:52+0000\n"
+"PO-Revision-Date: 2018-05-29 02:16+0000\n"
 "Last-Translator: wrapsody <wrapsody.dev@gmail.com>\n"
 "Language-Team: wrapsody_KO (generated) <http://192.168.20.72:7070/projects/"
 "wrapsody/master/wrapsody_KO/>\n"
@@ -1100,7 +1100,7 @@ msgstr "%1$s님이 %2$s의 %3$s요청을 승인했습니다."
 #: str_notification_cancelRevision_title
 msgctxt "str_notification_cancelRevision_title"
 msgid "리비전취소"
-msgstr "리비전취소"
+msgstr "리비전 중단"
 
 #: str_notification_changeDocumentOwner
 msgctxt "str_notification_changeDocumentOwner"
