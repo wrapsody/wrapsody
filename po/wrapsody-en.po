@@ -1159,3 +1159,9 @@ msgstr "Tap this button to get the view permission of this document."
 msgctxt "str_requestOnDocumentPage_viewer_label"
 msgid "열람 권한 소유자"
 msgstr "Viewers"
+
+#: str_notification_requestedView_message_formatted
+msgctxt "str_notification_requestedView_message_formatted"
+msgid "%1$s님이 %2$s의 열람을 요청했습니다."
+msgstr "%1$s requested a read for %2$s."
+
