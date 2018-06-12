@@ -805,6 +805,11 @@ msgctxt "str_commentPage_notifyAccordingToNotificationPreferences_description"
 msgid "의견알림설정에 따라 알림을 받습니다."
 msgstr "의견알림설정에 따라 알림을 받습니다."
 
+#: str_commentPage_noRightsCommentInput_placeholder
+msgctxt "str_commentPage_noRightsCommentInput_placeholder"
+msgid "열람 또는 리비전 권한이 필요합니다."
+msgstr "열람 또는 리비전 권한이 필요합니다."
+
 #: str_commentPage_newCommentInput_placeholder
 msgctxt "str_commentPage_newCommentInput_placeholder"
 msgid "의견을 입력하세요. (최대 512자)"
