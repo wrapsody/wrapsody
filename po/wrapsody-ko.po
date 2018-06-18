@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Korean (Wrapsody)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-30 14:16+0900\n"
-"PO-Revision-Date: 2018-06-04 01:58+0000\n"
+"PO-Revision-Date: 2018-06-18 04:47+0000\n"
 "Last-Translator: wrapsody <wrapsody.dev@gmail.com>\n"
 "Language-Team: wrapsody_KO (generated) <http://192.168.20.72:7070/projects/"
 "wrapsody/master/wrapsody_KO/>\n"
@@ -723,7 +723,7 @@ msgstr "열람 요청 한 %2$s(을)를 %1$s님이 열람하였습니다."
 #, c-format
 msgctxt "READ_REQUEST_ALERT"
 msgid "열람 요청하신 %2$@(을)를 %1$@님이 열람하였습니다."
-msgstr "열람 요청하신 %2$@(을)를 %1$@님이 열람하였습니다."
+msgstr "열람 요청 한 %2$@(을)를 %1$@님이 열람하였습니다."
 
 #: str_notification_viewConfirmed_title
 msgctxt "str_notification_viewConfirmed_title"
