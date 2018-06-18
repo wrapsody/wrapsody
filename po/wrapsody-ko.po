@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Korean (Wrapsody)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-30 14:16+0900\n"
-"PO-Revision-Date: 2018-06-18 05:08+0000\n"
+"PO-Revision-Date: 2018-06-18 09:43+0000\n"
 "Last-Translator: wrapsody <wrapsody.dev@gmail.com>\n"
 "Language-Team: wrapsody_KO (generated) <http://192.168.20.72:7070/projects/"
 "wrapsody/master/wrapsody_KO/>\n"
@@ -1133,7 +1133,7 @@ msgstr "권한 요청"
 #, c-format
 msgctxt "str_notification_requestSubmitted_message_formatted"
 msgid "%1$s님이 %2$s의 %3$s권한을 요청했습니다."
-msgstr "%1$s님이 %2$s의 %3$s권한을 요청했습니다."
+msgstr "%1$s님이 %2$s의 %3$s을 요청했습니다."
 
 #: str_notification_requestToView_tile
 msgctxt "str_notification_requestToView_tile"
