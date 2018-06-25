@@ -1175,3 +1175,16 @@ msgstr "열람 권한 소유자"
 msgctxt "str_notification_requestedView_message_formatted"
 msgid "%1$s님이 %2$s의 열람을 요청했습니다."
 msgstr "%1$s님이 %2$s의 열람을 요청했습니다."
+
+#, c-format
+#: str_commonFormat_documentNameChanged
+msgctxt "str_commonFormat_documentNameChanged"
+msgid "문서 이름이 \"%1$s\"에서 \"%2$s\"으로 변경되었습니다."
+msgstr "문서 이름이 \"%1$s\"에서 \"%2$s\"으로 변경되었습니다."
+
+#, c-format
+#: str_commonFormat_documentNameChanged_iOS
+msgctxt "str_commonFormat_documentNameChanged_iOS"
+msgid "문서 이름이 \"%1$@\"에서 \"%2$@\"으로 변경되었습니다."
+msgstr "문서 이름이 \"%1$@\"에서 \"%2$@\"으로 변경되었습니다."
+
