@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: English (Wrapsody)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-19 07:06+0000\n"
-"PO-Revision-Date: 2018-06-26 06:30+0000\n"
+"PO-Revision-Date: 2018-06-27 06:35+0000\n"
 "Last-Translator: wrapsody <wrapsody.dev@gmail.com>\n"
 "Language-Team: wrapsody_EN (generated) <http://192.168.20.72:7070/projects/"
 "wrapsody/master/wrapsody_EN/>\n"
@@ -1174,10 +1174,10 @@ msgstr "%1$s requested a read for %2$s."
 #, c-format
 msgctxt "str_commonFormat_documentNameChanged"
 msgid "문서 이름이 \"%1$s\"에서 \"%2$s\"으로 변경되었습니다."
-msgstr "File name has changed from \"%1$s\" to \"%2$s\"."
+msgstr "File name has changed from '%1$s' to '%2$s'."
 
 #: str_commonFormat_documentNameChanged_iOS
 #, c-format
 msgctxt "str_commonFormat_documentNameChanged_iOS"
 msgid "문서 이름이 \"%1$@\"에서 \"%2$@\"으로 변경되었습니다."
-msgstr "File name has changed from \"%1$@\" to \"%2$@\"."
+msgstr "File name has changed from '%1$@' to '%2$@'."
