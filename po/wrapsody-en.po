@@ -1085,6 +1085,12 @@ msgctxt "str_commonFormat_secondValueInParenthesis"
 msgid "%1$s(%2$s)"
 msgstr "%1$s(%2$s)"
 
+#: str_commonFormat_secondValueInParenthesis_iOS
+#, c-format
+msgctxt "str_commonFormat_secondValueInParenthesis_iOS"
+msgid "%1$@(%2$@)"
+msgstr "%1$@(%2$@)"
+
 #: str_myDocumentPage_searchResult_label_formatted
 #, c-format
 msgctxt "str_myDocumentPage_searchResult_label_formatted"
