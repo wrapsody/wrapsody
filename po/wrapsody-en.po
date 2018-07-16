@@ -1187,3 +1187,18 @@ msgstr "File name has changed from '%1$s' to '%2$s'."
 msgctxt "str_commonFormat_documentNameChanged_iOS"
 msgid "문서 이름이 \"%1$@\"에서 \"%2$@\"으로 변경되었습니다."
 msgstr "File name has changed from '%1$@' to '%2$@'."
+
+#: str_common_allView
+msgctxt "str_common_allView"
+msgid "View(All users)"
+msgstr "View(All users)"
+
+#: str_common_authority
+msgctxt "str_common_authority"
+msgid "My Permission"
+msgstr "My Permission"
+
+#: str_documentInformationPage_user_label
+msgctxt "str_documentInformationPage_user_label"
+msgid "Users with permission"
+msgstr "Users with permission"

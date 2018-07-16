@@ -1193,3 +1193,18 @@ msgstr "문서 이름이 '%1$s'에서 '%2$s'으로 변경되었습니다."
 msgctxt "str_commonFormat_documentNameChanged_iOS"
 msgid "문서 이름이 \"%1$@\"에서 \"%2$@\"으로 변경되었습니다."
 msgstr "문서 이름이 '%1$@'에서 '%2$@'으로 변경되었습니다."
+
+#: str_common_allView
+msgctxt "str_common_allView"
+msgid "열람(모든 사용자)"
+msgstr "열람(모든 사용자)"
+
+#: str_common_authority
+msgctxt "str_common_authority"
+msgid "보유 권한"
+msgstr "보유 권한"
+
+#: str_documentInformationPage_user_label
+msgctxt "str_documentInformationPage_user_label"
+msgid "권한 소유자"
+msgstr "권한 소유자"
