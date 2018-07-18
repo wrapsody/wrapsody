@@ -42,7 +42,7 @@ msgctxt "str_setTagPage_filterableTagList_userTagWillBeAdded_description"
 msgid "입력하면 사용자 태그로 추가합니다."
 msgstr "Add your own tag by tapping done."
 
-#: str_common_search 
+#: str_common_search
 msgctxt "str_common_search"
 msgid "검색"
 msgstr "Search"
@@ -1202,3 +1202,23 @@ msgstr "My Permission"
 msgctxt "str_documentInformationPage_user_label"
 msgid "Users with permission"
 msgstr "Users with permission"
+
+#: str_myDocumentPage_all_title
+msgctxt "str_myDocumentPage_all_title"
+msgid "All"
+msgstr "All"
+
+#: str_myDocumentPage_favorites_title
+msgctxt "str_myDocumentPage_favorites_title"
+msgid "Starred"
+msgstr "Starred"
+
+#: str_myDocumentPage_read_title
+msgctxt "str_myDocumentPage_read_title"
+msgid "Viewed"
+msgstr "Viewed"
+
+#: str_myDocumentPage_unread_title
+msgctxt "str_myDocumentPage_unread_title"
+msgid "Unread"
+msgstr "Unread"

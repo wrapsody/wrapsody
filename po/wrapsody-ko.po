@@ -388,7 +388,7 @@ msgctxt "str_dialog_successfullyRequestedChangeOwner_message"
 msgid "리비전 권한을 요청했습니다."
 msgstr "리비전 권한을 요청했습니다."
 
-#: str_dialog_successfullyRequestedRevisePermission_message 
+#: str_dialog_successfullyRequestedRevisePermission_message
 msgctxt "str_dialog_successfullyRequestedRevisePermission_message"
 msgid "리비전 권한을 요청했습니다."
 msgstr "리비전 권한을 요청했습니다."
@@ -1177,7 +1177,7 @@ msgctxt "str_requestOnDocumentPage_viewer_label"
 msgid "열람 권한 소유자"
 msgstr "열람 권한 소유자"
 
-#: str_notification_requestedView_message_formatted 
+#: str_notification_requestedView_message_formatted
 msgctxt "str_notification_requestedView_message_formatted"
 msgid "%1$s님이 %2$s의 열람을 요청했습니다."
 msgstr "%1$s님이 %2$s의 열람을 요청했습니다."
@@ -1208,3 +1208,23 @@ msgstr "보유 권한"
 msgctxt "str_documentInformationPage_user_label"
 msgid "권한 소유자"
 msgstr "권한 소유자"
+
+#: str_myDocumentPage_all_title
+msgctxt "str_myDocumentPage_all_title"
+msgid "전체"
+msgstr "전체"
+
+#: str_myDocumentPage_favorites_title
+msgctxt "str_myDocumentPage_favorites_title"
+msgid "즐겨찾기"
+msgstr "즐겨찾기"
+
+#: str_myDocumentPage_read_title
+msgctxt "str_myDocumentPage_read_title"
+msgid "열람 한 문서"
+msgstr "열람 한 문서"
+
+#: str_myDocumentPage_unread_title
+msgctxt "str_myDocumentPage_unread_title"
+msgid "읽지 않은 문서"
+msgstr "읽지 않은 문서"
