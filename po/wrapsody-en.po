@@ -1222,3 +1222,18 @@ msgstr "Viewed"
 msgctxt "str_myDocumentPage_unread_title"
 msgid "Unread"
 msgstr "Unread"
+
+#: str_myDocumentPage_new_title
+msgctxt "str_myDocumentPage_new_title"
+msgid "Received"
+msgstr "Received"
+
+#: str_myDocumentPage_requestRead_title
+msgctxt "str_myDocumentPage_requestRead_title"
+msgid "Alerted"
+msgstr "Alerted"
+
+#: str_myDocumentPage_trash_title
+msgctxt "str_myDocumentPage_trash_title"
+msgid "Recycle Bin"
+msgstr "Recycle Bin"

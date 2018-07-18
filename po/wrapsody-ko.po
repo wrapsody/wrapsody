@@ -1228,3 +1228,18 @@ msgstr "열람 한 문서"
 msgctxt "str_myDocumentPage_unread_title"
 msgid "읽지 않은 문서"
 msgstr "읽지 않은 문서"
+
+#: str_myDocumentPage_new_title
+msgctxt "str_myDocumentPage_new_title"
+msgid "받은 문서"
+msgstr "받은 문서"
+
+#: str_myDocumentPage_requestRead_title
+msgctxt "str_myDocumentPage_requestRead_title"
+msgid "열람 요청"
+msgstr "열람 요청"
+
+#: str_myDocumentPage_trash_title
+msgctxt "str_myDocumentPage_trash_title"
+msgid "휴지통"
+msgstr "휴지통"
