@@ -1243,3 +1243,37 @@ msgstr "열람 요청"
 msgctxt "str_myDocumentPage_trash_title"
 msgid "휴지통"
 msgstr "휴지통"
+
+#: str_myDocumentPage_period_last_day
+#, c-format
+msgctxt "str_myDocumentPage_period_last_day"
+msgid "지난 %1$d일"
+msgstr "지난 %1$d일"
+
+#: str_myDocumentPage_period_last_week
+#, c-format
+msgctxt "str_myDocumentPage_period_last_week"
+msgid "지난 %1$d주"
+msgstr "지난 %1$d주"
+
+#: str_myDocumentPage_period_last_month
+#, c-format
+msgctxt "str_myDocumentPage_period_last_month"
+msgid "지난 %1$d개월"
+msgstr "지난 %1$d개월"
+
+#: str_myDocumentPage_period_last_year
+#, c-format
+msgctxt "str_myDocumentPage_period_last_year"
+msgid "지난 %1$d년"
+msgstr "지난 %1$d년"
+
+#: str_myDocumentPage_period_all
+msgctxt "str_myDocumentPage_period_all"
+msgid "전체"
+msgstr "전체"
+
+#: str_myDocumentPage_order_revisedDate
+msgctxt "str_myDocumentPage_order_revisedDate"
+msgid "버전 생성일"
+msgstr "버전 생성일"
