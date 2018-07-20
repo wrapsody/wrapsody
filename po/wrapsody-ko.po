@@ -1277,3 +1277,38 @@ msgstr "전체"
 msgctxt "str_myDocumentPage_order_revisedDate"
 msgid "버전 생성일"
 msgstr "버전 생성일"
+
+#: str_menuPage_addFavorites_text
+msgctxt "str_menuPage_addFavorites_text"
+msgid "즐겨찾기 추가"
+msgstr "즐겨찾기 추가"
+
+#: str_menuPage_removeFavorites_text
+msgctxt "str_menuPage_removeFavorites_text"
+msgid "즐겨찾기 삭제"
+msgstr "즐겨찾기 삭제"
+
+#: str_dialog_addFavorites_message
+msgctxt "str_dialog_addFavorites_message"
+msgid "즐겨찾기 목록에 추가되었습니다."
+msgstr "즐겨찾기 목록에 추가되었습니다."
+
+#: str_dialog_removeFavorites_message
+msgctxt "str_dialog_removeFavorites_message"
+msgid "즐겨찾기 목록에서 삭제되었습니다."
+msgstr "즐겨찾기 목록에서 삭제되었습니다."
+
+#: str_menuPage_sortByDate_title
+msgctxt "str_menuPage_sortByDate_title"
+msgid "리비전 날짜 기준"
+msgstr "리비전 날짜 기준"
+
+#: str_menuPage_sortByOrder_title
+msgctxt "str_menuPage_sortByOrder_title"
+msgid "정렬 기준..."
+msgstr "정렬 기준..."
+
+#: str_menuPage_searchType_title
+msgctxt "str_menuPage_searchType_title"
+msgid "검색 기준"
+msgstr "검색 기준"
