@@ -1310,5 +1310,5 @@ msgstr "정렬 기준..."
 
 #: str_menuPage_searchType_title
 msgctxt "str_menuPage_searchType_title"
-msgid "검색 기준"
-msgstr "검색 기준"
+msgid "검색 기준..."
+msgstr "검색 기준..."

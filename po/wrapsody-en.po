@@ -1304,5 +1304,5 @@ msgstr "Sort by..."
 
 #: str_menuPage_searchType_title
 msgctxt "str_menuPage_searchType_title"
-msgid "검색 기준"
-msgstr "Search type"
+msgid "검색 기준..."
+msgstr "Search by..."
