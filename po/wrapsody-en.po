@@ -1306,3 +1306,8 @@ msgstr "Sort by..."
 msgctxt "str_menuPage_searchType_title"
 msgid "검색 기준..."
 msgstr "Search by..."
+
+#: str_menuPage_rename_title
+msgctxt "str_menuPage_rename_title"
+msgid "이름 바꾸기"
+msgstr "Rename"
