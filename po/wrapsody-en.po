@@ -922,7 +922,7 @@ msgstr "No server access history."
 #: str_recentsPage_title
 msgctxt "str_recentsPage_title"
 msgid "최근 항목"
-msgstr "Files"
+msgstr "Downloaded files"
 
 #: str_recentsPage_recentsList_emptyMessage
 msgctxt "str_recentsPage_recentsList_emptyMessage"

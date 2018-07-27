@@ -928,7 +928,7 @@ msgstr "최근 접속한 서버 내역이 없습니다."
 #: str_recentsPage_title
 msgctxt "str_recentsPage_title"
 msgid "최근 항목"
-msgstr "파일"
+msgstr "다운로드 파일"
 
 #: str_recentsPage_recentsList_emptyMessage
 msgctxt "str_recentsPage_recentsList_emptyMessage"
