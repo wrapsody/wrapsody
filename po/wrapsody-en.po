@@ -922,17 +922,17 @@ msgstr "No server access history."
 #: str_recentsPage_title
 msgctxt "str_recentsPage_title"
 msgid "최근 항목"
-msgstr "Recents"
+msgstr "Files"
 
 #: str_recentsPage_recentsList_emptyMessage
 msgctxt "str_recentsPage_recentsList_emptyMessage"
 msgid "최근 항목 없음."
-msgstr "There is no recent items."
+msgstr "There is no items."
 
 #: str_dialog_deleteAll_question
 msgctxt "str_dialog_deleteAll_question"
 msgid "최근 항목을 모두 삭제하시겠습니까?"
-msgstr "Are you sure to delete all recent items?"
+msgstr "Are you sure to delete all files?"
 
 #: str_dialog_latestRevisionVersion_text
 msgctxt "str_dialog_latestRevisionVersion_text"
@@ -1311,3 +1311,57 @@ msgstr "Search by..."
 msgctxt "str_menuPage_rename_title"
 msgid "이름 바꾸기"
 msgstr "Rename"
+
+#: str_common_restore
+msgctxt "str_common_restore"
+msgid "복원"
+msgstr "Restore"
+
+#: str_common_permanentDelete
+msgctxt "str_common_permanentDelete"
+msgid "영구 삭제 요청"
+msgstr "Request Permanent Delete"
+
+#: str_common_deleteFromThisDevice
+msgctxt "str_common_deleteFromThisDevice"
+msgid "이 장치에서 삭제"
+msgstr "Delete from this device"
+
+#: str_dialog_delete_question
+msgctxt "str_dialog_delete_question"
+msgid "해당 문서를 삭제하시겠습니까?"
+msgstr "Do you want to delete this document?"
+
+#: str_requestManagementPage_requestToPermanentDelete_label
+msgctxt "str_requestManagementPage_requestToPermanentDelete_label"
+msgid "영구 삭제 요청"
+msgstr "Request Permanent Delete"
+
+#: str_dialog_requestPermanentDeleteSuccess_message
+msgctxt "str_dialog_requestPermanentDeleteSuccess_message"
+msgid "영구 삭제를 요청했습니다."
+msgstr "Requested permanent delete."
+
+#: str_dialog_deleteSuccess_message_iOS
+#, c-format
+msgctxt "str_dialog_deleteSuccess_message_iOS"
+msgid "‘%1$@‘가 삭제되었습니다."
+msgstr "‘%1$@' has been deleted."
+
+#: str_dialog_restoreSuccess_message_iOS
+#, c-format
+msgctxt "str_dialog_restoreSuccess_message_iOS"
+msgid "‘%1$@‘가 복구되었습니다."
+msgstr "‘%1$@‘ has been restored."
+
+#: str_dialog_deleteSuccess_message
+#, c-format
+msgctxt "str_dialog_deleteSuccess_message"
+msgid "‘%1$s‘가 삭제되었습니다."
+msgstr "‘%1$s‘ has been deleted."
+
+#: str_dialog_deleteSuccess_message
+#, c-format
+msgctxt "str_dialog_deleteSuccess_message"
+msgid "‘%1$s‘가 삭제되었습니다."
+msgstr "‘%1$s‘ has been restored."
