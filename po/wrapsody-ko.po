@@ -1371,3 +1371,9 @@ msgstr "‘%1$s‘가 삭제되었습니다."
 msgctxt "str_dialog_deleteSuccess_message"
 msgid "‘%1$s‘가 삭제되었습니다."
 msgstr "‘%1$s‘가 삭제되었습니다."
+
+#: str_commonFormat_documentDeleteValidityPeriod_iOS
+#, c-format
+msgctxt "str_commonFormat_documentDeleteValidityPeriod_iOS"
+msgid "보존 기간 %1$d일 경과 후 영구 삭제됩니다."
+msgstr "보존 기간 %1$d일 경과 후 영구 삭제됩니다."

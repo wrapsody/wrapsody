@@ -1360,8 +1360,14 @@ msgctxt "str_dialog_deleteSuccess_message"
 msgid "‘%1$s‘가 삭제되었습니다."
 msgstr "‘%1$s‘ has been deleted."
 
-#: str_dialog_deleteSuccess_message
+#: str_dialog_restoreSuccess_message
 #, c-format
-msgctxt "str_dialog_deleteSuccess_message"
-msgid "‘%1$s‘가 삭제되었습니다."
+msgctxt "str_dialog_restoreSuccess_message"
+msgid "‘%1$s‘가 복구되었습니다."
 msgstr "‘%1$s‘ has been restored."
+
+#: str_commonFormat_documentDeleteValidityPeriod_iOS
+#, c-format
+msgctxt "str_commonFormat_documentDeleteValidityPeriod_iOS"
+msgid "보존 기간 %1$d일 경과 후 영구 삭제됩니다."
+msgstr "To be permanently deleted after a retention period of %1$d days."
