@@ -383,11 +383,6 @@ msgctxt "str_dialog_successfullyRequestedChangeOwner_message"
 msgid "문서 관리자 승계을 요청했습니다."
 msgstr "문서 관리자 승계를 요청했습니다."
 
-#: str_dialog_successfullyRequestedChangeOwner_message
-msgctxt "str_dialog_successfullyRequestedChangeOwner_message"
-msgid "리비전 권한을 요청했습니다."
-msgstr "문서 관리자 권한을 요청했습니다."
-
 #: str_dialog_successfullyRequestedRevisePermission_message
 msgctxt "str_dialog_successfullyRequestedRevisePermission_message"
 msgid "리비전 권한을 요청했습니다."

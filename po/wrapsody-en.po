@@ -23,7 +23,7 @@ msgstr ", %1$s"
 #: str_myDocumentPage_docItemRevisionValue_text_formatted
 msgctxt "str_myDocumentPage_docItemRevisionValue_text_formatted"
 msgid "버전정보를 셀에 표시"
-msgstr ", ver %1$d"
+msgstr "Ver. %1$d,"
 
 #: str_commonFormat_valueInParenthesis
 #, c-format
