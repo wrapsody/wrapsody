@@ -377,7 +377,7 @@ msgstr "Request Ownership"
 
 #: str_dialog_successfullyRequestedChangeOwner_message
 msgctxt "str_dialog_successfullyRequestedChangeOwner_message"
-msgid "문서 관리자 승계을 요청했습니다."
+msgid "문서 관리자 승계를 요청했습니다."
 msgstr "An owner change request has been sent."
 
 #: str_dialog_successfullyRequestedRevisePermission_message
