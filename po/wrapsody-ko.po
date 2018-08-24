@@ -1355,13 +1355,13 @@ msgctxt "str_dialog_restoreSuccess_message_iOS"
 msgid "‘%1$@‘가 복구되었습니다."
 msgstr "‘%1$@‘가 복구되었습니다."
 
-#: str_dialog_deleteSuccess_message
+#: str_dialog_deleteSuccess_messages
 #, c-format
 msgctxt "str_dialog_deleteSuccess_message"
 msgid "‘%1$s‘가 삭제되었습니다."
 msgstr "‘%1$s‘가 삭제되었습니다."
 
-#: str_dialog_deleteSuccess_message
+#: str_dialog_restoreSuccess_message
 #, c-format
 msgctxt "str_dialog_deleteSuccess_message"
 msgid "‘%1$s‘가 복구되었습니다."
