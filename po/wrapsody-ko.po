@@ -1372,3 +1372,8 @@ msgstr "‘%1$s‘가 복구되었습니다."
 msgctxt "str_commonFormat_documentDeleteValidityPeriod"
 msgid "보존 기간 %1$d일 경과 후 영구 삭제됩니다."
 msgstr "보존 기간 %1$d일 경과 후 영구 삭제됩니다."
+
+#: str_commentPage_notifySortby_description
+msgctxt "str_commentPage_notifySortby_description"
+msgid "휴지통은 '문서 삭제일' 기준으로 정렬됩니다."
+msgstr "휴지통은 '문서 삭제일' 기준으로 정렬됩니다."
