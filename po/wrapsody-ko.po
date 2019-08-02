@@ -328,6 +328,16 @@ msgctxt "str_requestManagementPage_requestToCancelRevisioning_label"
 msgid "리비전 취소 요청"
 msgstr "리비전 중단 요청"
 
+#: str_requestManagementPage_requestToRemoveRevision_label
+msgctxt "str_requestManagementPage_requestToRemoveRevision_label"
+msgid "버전 삭제 요청"
+msgstr "버전 삭제 요청"
+
+#: str_requestManagementPage_requestToDelete_label
+msgctxt "str_requestManagementPage_requestToDelete_label"
+msgid "영구 삭제 요청"
+msgstr "영구 삭제 요청"
+
 #: str_requestOnDocumentPage_requestCancelRevisioning_text
 msgctxt "str_requestOnDocumentPage_requestCancelRevisioning_text"
 msgid "리비전 취소 요청"
@@ -1145,6 +1155,21 @@ msgstr "열람 요청"
 msgctxt "str_requestsManagementPage_requestsUser_label"
 msgid "요청자"
 msgstr "요청자"
+
+#: str_requestsManagementPage_requestsDate_label
+msgctxt "str_requestsManagementPage_requestsDate_label"
+msgid "요청일"
+msgstr "요청일"
+
+#: str_requestsManagementPage_requestsType_label
+msgctxt "str_requestsManagementPage_requestsType_label"
+msgid "요청 종류"
+msgstr "요청 종류"
+
+#: str_requestsManagementPage_requestsReason_label
+msgctxt "str_requestsManagementPage_requestsReason_label"
+msgid "사유"
+msgstr "사유"
 
 #: str_common_revisionDate
 msgctxt "str_common_revisionDate"
