@@ -1333,6 +1333,12 @@ msgctxt "str_menuPage_searchType_title"
 msgid "검색 기준..."
 msgstr "검색 기준..."
 
+#: str_menuPage_sortByDelete_title
+msgctxt "str_menuPage_sortByDelete_title"
+msgid "문서 삭제일 기준..."
+msgstr "문서 삭제일 기준..."
+
+
 #: str_menuPage_rename_title
 msgctxt "str_menuPage_rename_title"
 msgid "이름 바꾸기"
