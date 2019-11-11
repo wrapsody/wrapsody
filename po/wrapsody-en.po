@@ -1412,3 +1412,18 @@ msgstr "The recycle bin is sorted by 'Date deleted'."
 msgctxt "str_common_documentDeleteDate"
 msgid "문서 삭제일"
 msgstr "Date deleted"
+
+#: str_settingsPage_viewMode_text
+msgctxt "str_settingsPage_viewMode_text"
+msgid "열람 모드"
+msgstr "Viewer mode"
+
+#: str_settingsPage_viewMode_default_text
+msgctxt "str_settingsPage_viewMode_default_text"
+msgid "기본 모드"
+msgstr "Default Mode"
+
+#: str_settingsPage_viewMode_web_text
+msgctxt "str_settingsPage_viewMode_web_text"
+msgid "웹 열람 모드"
+msgstr "Web viewer mode"
