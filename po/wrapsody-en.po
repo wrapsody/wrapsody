@@ -1427,3 +1427,8 @@ msgstr "Default Mode"
 msgctxt "str_settingsPage_viewMode_web_text"
 msgid "웹 열람 모드"
 msgstr "Web viewer mode"
+
+#: str_dialog_viewInDefaultMode_question
+msgctxt "str_dialog_viewInDefaultMode_question"
+msgid "이 문서를 기본 모드로 열람하시겠습니까?"
+msgstr "Do you want to view this document in default mode?"
